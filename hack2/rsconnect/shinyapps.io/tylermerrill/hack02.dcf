@@ -1,0 +1,12 @@
+name: hack02
+title: hack02
+username: tylermerrill
+account: tylermerrill
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13190782
+bundleId: 9295620
+url: https://tylermerrill.shinyapps.io/hack02/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

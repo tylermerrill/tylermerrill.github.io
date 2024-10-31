@@ -1,0 +1,12 @@
+name: Hackathon2
+title: Hackathon2
+username: tylermerrill
+account: tylermerrill
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13190757
+bundleId: 9295019
+url: https://tylermerrill.shinyapps.io/Hackathon2/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
