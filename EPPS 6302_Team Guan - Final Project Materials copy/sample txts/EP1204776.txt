@@ -1,0 +1,1558 @@
+NEW ISSUE – BOOK-ENTRY ONLY                                                                      Rating: Oklahoma #1
+In the opinion of Hilborne & Weidman, Bond Counsel, Tulsa, Oklahoma, under existing law, and subject to compliance with certain
+covenants, interest on the bonds is not included in the gross income of owners of the Bonds for Federal income tax purposes and
+is not treated as a preference item for purposes of computing Federal alternative minimum tax. The Bonds are “qualified tax-
+exempt obligations” under Section 265(b)(3) of the Internal Revenue Code of 1986, as amended. Interest on the Bonds is exempt
+from Oklahoma income taxation. See “Tax Matters” herein.
+
+                                                      $1,580,000
+                                       Independent School District No. 9
+                                          Garvin County, Oklahoma
+                                           (Lindsay Public Schools)
+                                       Combined Purpose Bonds of 2019
+Dated: July 1, 2019                                                                            Due: July 1, as shown below
+          The Bonds are being issued by Independent School District No. 9 of Garvin County, Oklahoma (the “School
+District”). The Bonds are dated as of July 1, 2019. Interest on the Bonds is payable semiannually on January 1 and
+July 1 of each year (each an “Interest Payment Date”), commencing July 1, 2021. The Bonds will be initially issued,
+in fully registered form, in the name of Cede & Co., as nominee of The Depository Trust Company (“DTC”), New
+York, New York. Purchases of the Bonds will be made in book-entry form only, through brokers and dealers who are,
+or who act through DTC participants. Purchases of the Bonds may be made in the denomination of $5,000 or any
+integral multiple thereof. Beneficial owners of the Bonds will not receive physical delivery of Bond certificates so
+long as DTC or a successor securities depository acts as the securities depository with respect to the Bonds. So
+long as DTC or its nominee is the registered owner of the Bonds, payment of the principal and interest on the Bonds
+will be payable by UMB Bank, n.a., Oklahoma City, Oklahoma, as initial Paying Agent and Registrar (the “Paying
+Agent and Registrar”), to DTC or its nominee and disbursement of such payments to DTC Participants will be the
+responsibility of DTC and disbursement of such payments to beneficial owners of the Bonds will be the responsibility
+of DTC Participants and Indirect Participants. No physical delivery of the Bonds will be made to the owners thereof.
+(see “The Bonds – Book-Entry System” herein).
+         The Bonds are not callable prior to their stated maturities.
+        The School District has designated the Bonds as “qualified tax-exempt obligations” for purposes of Section
+265(b)(3) of the Internal Revenue Code of 1986, as amended, as described herein.
+         The proceeds from the Bonds will be used to acquire and/or install technology equipment and technology
+infrastructure upgrades district-wide, as needed; acquire school owned vehicles; and acquire vehicles for pupil
+transportation, as well as to pay all legal, financial and other costs relating to the issuance of the Bonds, as described
+herein.
+         The Bonds are direct and general obligations of the School District and are payable as to principal and interest
+from ad valorem taxes which are required to be levied on all taxable property within the School District, without
+limitation as to rate or amount.
+                                                     Maturity Schedule
+      Due          Principal        Interest                          Due          Principal        Interest
+     July 1        Amount            Rate            Yield           July 1        Amount            Rate            Yield
+
+      2021           $400,000           2.10%           1.75%        2023            $590,000           2.00%           1.85%
+      2022           $590,000           2.00%           1.80%
+
+          This cover page contains only a brief description of the Bonds and the security therefor. It is not a summary
+of this issue. Investors are advised to read the entire Official Statement to obtain information essential to the making
+of an informed investment decision.
+    The Bonds are offered when, as and if issued by the School District, and subject to the approving opinion of Hilborne &
+ Weidman, Bond Counsel, Tulsa, Oklahoma, as to validity and tax exemption. It is expected that the Bonds will be available for
+                                      delivery on or about the 11th day of July, 2019.
+
+                                    FINANCIAL ADVISOR
+                          STEPHEN H. MCDONALD & ASSOCIATES, INC.
+                                      Norman, Oklahoma
+
+
+Official Statement Dated May 16, 2019
+
+        Board of Education
+  Independent School District No. 9
+     Garvin County, Oklahoma
+
+       Mitch Lindsey, President
+     Gena Fletcher, Vice President
+ Clint L. Simonton, Clerk and Member
+          Larry Winn, Member
+       Steven D. Pracht, Member
+
+
+
+
+   SCHOOL ADMINISTRATION
+
+Dan Chapman, Superintendent of Schools
+Barre Griffith, School District Treasurer
+
+
+
+
+       FINANCIAL ADVISOR
+
+Stephen H. McDonald & Associates, Inc.
+         Norman, Oklahoma
+
+          This Official Statement, which includes the cover page and the Exhibits hereto, does not constitute an
+offer to sell or the solicitation of an offer to buy, nor shall there be any sale of the Bonds, by any person in any
+jurisdiction in which it is unlawful for such person to make such offer, solicitation or sale.
+        No dealer, broker, salesperson or other person has been authorized by the School District or the
+Financial Advisor to give information or to make any representation other than those contained in this Official
+Statement, and, if given or made, such other information or representations must not be relied upon as having
+been authorized by any of the foregoing.
+          The information set forth herein has been obtained from the School District and other sources believed
+to be reliable, but such information is not guaranteed as to accuracy or completeness and is not to be construed
+as the promise or guarantee of the Financial Advisor. This Official Statement contains, in part, estimates and
+matters of opinion which are not intended as statements of fact, and no representation is made as to the
+correctness of such estimates and opinions, or that they will be realized.
+
+         The information and expressions of opinion contained herein are subject to change without notice, and
+neither the delivery of this Official Statement nor any sale made hereunder shall, under any circumstances,
+create any implication that there has been no change in the affairs of the School District, or in the information
+or opinions set forth herein, since the date of this Official Statement.
+
+                                                            Contents
+INTRODUCTORY STATEMENT ................................................................................................ 1
+THE BONDS .................................................................................................................................. 1
+  Authorization and Purpose.......................................................................................................... 1
+  General Description .................................................................................................................... 1
+  Redemption Prior to Maturity ..................................................................................................... 2
+  Tax Matters ................................................................................................................................. 2
+  Registration and Transfer............................................................................................................ 2
+  Book-Entry System ..................................................................................................................... 2
+  Security and Source of Payment ................................................................................................. 4
+INDEPENDENT SCHOOL DISTRICT NO. 9, GARVIN COUNTY, OKLAHOMA ................. 5
+  General Information .................................................................................................................... 5
+FINANCIAL MATTERS ............................................................................................................... 5
+  Ad Valorem Taxes ...................................................................................................................... 5
+  Compliance with Constitutional Debt Limitation ....................................................................... 7
+  Authorized but Unissued Bonds ................................................................................................. 8
+  Composition and Growth of the Net Assessed Valuation .......................................................... 8
+  General Obligation Bonded Debt Outstanding ........................................................................... 9
+  Annual Debt Service Requirements of General Obligation Bonded Debt Outstanding ............. 9
+  Net Direct, Overlapping and Underlying General Obligation Bonded Indebtedness (as of June
+       30, 2018) ............................................................................................................................. 9
+  Sinking Fund Tax Collections .................................................................................................. 10
+  Trend of Tax Rates of Major Taxing Units* ............................................................................ 10
+  Largest Taxpayers ..................................................................................................................... 11
+LITIGATION ................................................................................................................................ 11
+LEGAL MATTERS ...................................................................................................................... 11
+CONTINUING DISCLOSURE .................................................................................................... 11
+TAX MATTERS ........................................................................................................................... 12
+  Federal Tax Matters .................................................................................................................. 12
+    Tax Opinions ......................................................................................................................... 12
+    Original Issue Premium ........................................................................................................ 13
+    Bank Qualified ...................................................................................................................... 13
+    Backup Withholding ............................................................................................................. 13
+    No Other Opinion ................................................................................................................. 14
+  State Tax Matters ...................................................................................................................... 14
+  Changes in Federal and State Tax Law .................................................................................... 14
+
+
+                                                                        i
+
+RATINGS ..................................................................................................................................... 14
+FINANCIAL STATEMENTS ...................................................................................................... 14
+UNDERWRITING ....................................................................................................................... 15
+CONCLUDING STATEMENT ................................................................................................... 15
+
+Appendix A - Continuing Disclosure Certificate
+Exhibit A - Selected material taken from audited Financial Statements for the Fiscal Year Ended
+   June 30, 2018
+
+
+
+
+                                                                       ii
+
+                               INTRODUCTORY STATEMENT
+
+        This Official Statement, including the Exhibits attached hereto (if any), has been prepared
+on behalf of Independent School District No. 9 of Garvin County, Oklahoma (the “School
+District”), in connection with the original issuance and sale by the School District of its Combined
+Purpose Bonds of 2019 (the “Bonds”).
+
+        All financial and other information presented in this Official Statement has been provided
+by the School District from its records, except for information expressly attributed to other sources.
+The presentation of information, including tables of receipts from taxes and other sources is
+intended to show recent historic information, and is not intended to indicate future or continuing
+trends in the financial position or other affairs of the School District. No representation is made
+that past experience, as is shown by such financial and other information, will necessarily continue
+or be repeated in the future.
+
+       Reference to provisions of Oklahoma law, whether codified in the Oklahoma Constitution
+or the Oklahoma Statutes are references to current provisions. These provisions are subject to
+amendment, repeal or supplement.
+
+                                           THE BONDS
+
+Authorization and Purpose
+
+        The Bonds are being issued and offered pursuant to the authority set forth in Article 10,
+Section 26 of the Oklahoma Constitution, as amended, Oklahoma Statutes 2011, Title 62§353 and
+354, Title 70§15-101ff and/or 106, and a Bond Resolution of the Board of Education of the School
+District adopted on the 16th day of May, 2019. The Bonds were authorized to be issued at a special
+election held in the School District on the 12th day of February, 2019.
+
+        Proceeds from the Bonds will be used to acquire and/or install technology equipment and
+technology infrastructure upgrades district-wide, as needed; acquire school owned vehicles; and
+acquire vehicles for pupil transportation, as well as to pay all legal, financial and other costs
+relating to the issuance of the Bonds.
+
+General Description
+
+        The Bonds are dated July 1, 2019, are fully registered bonds, and are in denominations of
+$5,000 or any integral multiple thereof. The Bonds bear interest from July 1, 2019, and interest
+will be paid semiannually on January 1 and July 1 of each year (each an “Interest Payment Date”),
+commencing July 1, 2021. It is anticipated that the Bonds will be available for delivery on or about
+the 11th day of July, 2019.
+
+       The principal of the Bonds is payable, when due, at the designated corporate trust office of
+UMB Bank, n.a. (the “Registrar” and “Paying Agent”), in Oklahoma City, Oklahoma. Interest on
+the Bonds will be paid on each Interest Payment Date by check mailed to the registered owner
+thereof at the address shown on the registration books maintained by the Registrar and Paying
+Agent at the close of business on the 15th day of the calendar month preceding the Interest Payment
+Date, or if such day is a Saturday, Sunday or holiday, on the next preceding business day (the
+“Record Date”).
+
+
+
+
+                                                  1
+
+Redemption Prior to Maturity
+
+       The Bonds are not callable prior to their stated maturity.
+
+Tax Matters
+
+        It is expected that interest on the Bonds will be excluded from gross income for federal
+income tax purposes, and that interest on the Bonds will be exempt from State of Oklahoma income
+taxation. It also is expected that the School District will designate the Bonds as “qualified tax-
+exempt obligations” for purposes of Section 265(b)(3) of the Internal Revenue Code of 1986, as
+amended (the “Code”). See the section titled “Tax Matters” herein.
+
+Registration and Transfer
+
+        Bonds presented to the Registrar for transfer after the close of business on a Record Date
+and before the close of business on the next subsequent Interest Payment Date will be registered
+in the name of the transferee but the interest payment will be made to the registered owners shown
+on the books of the Registrar as of the close of business on the Record Date.
+
+       The Bonds will be initially registered in the name of Cede & Co., as nominee of The
+Depository Trust Company (“DTC”), New York, New York, which will act as securities
+depository for the Bonds. Principal and interest on the Bonds will be paid by the Paying Agent and
+Registrar to DTC. Disbursements of such payments to the DTC Participants is the responsibility
+of DTC and disbursement of such payments to the Beneficial Owners is the responsibility of the
+DTC Participants and the Indirect Participants, as more fully described in the section titled “Book-
+Entry System.”
+
+Book-Entry System
+
+     THE INFORMATION IN THIS SECTION, “BOOK-ENTRY SYSTEM”, HAS BEEN
+FURNISHED BY THE DEPOSITORY TRUST COMPANY. NO REPRESENTATION IS
+MADE BY THE SCHOOL DISTRICT AS TO THE COMPLETENESS OR ACCURACY OF
+SUCH INFORMATION. THE SCHOOL DISTRICT SHALL HAVE NO RESPONSIBILITY
+OR OBLIGATION TO DTC PARTICIPANTS, INDIRECT PARTICIPANTS OR THE
+PERSONS FOR WHICH THEY ACT AS NOMINEES WITH RESPECT TO THE BONDS, OR
+FOR ANY PRINCIPAL, PREMIUM, IF ANY, OR INTEREST PAYMENT THEREOF.
+
+        The Depository Trust Company (“DTC”), New York, NY, will act as securities depository
+for the Bonds. The Bonds will be issued as fully-registered securities registered in the name of
+Cede & Co. (DTC’s partnership nominee) or such other name as may be requested by an authorized
+representative of DTC. One fully-registered Bond certificate will be issued for each maturity of
+the Bonds in the aggregate principal amount of each such maturity, and will be deposited with
+DTC at the office of the Paying Agent and Registrar on behalf of DTC utilizing the DTC FAST
+system of registration.
+
+        DTC, the world’s largest depository, is a limited-purpose trust company organized under
+the New York Banking Law, a “banking organization” within the meaning of the New York
+Banking Law, a member of the Federal Reserve System, a “clearing corporation” within the
+meaning of the New York Uniform Commercial Code, and a “clearing agency” registered pursuant
+to the provisions of Section 17A of the Securities Exchange Act of 1934. DTC holds and provides
+asset servicing for over 2.2 million issues of U.S. and non-U.S. equity, corporate and municipal
+debt issues, and money market instrument from over 100 countries that DTC’s participants
+(“Direct Participants”) deposit with DTC. DTC also facilitates the post-trade settlement among
+Direct Participants of sales and other securities transactions in deposited securities through
+
+                                                 2
+
+electronic computerized book-entry transfers and pledges between Direct Participants’ accounts.
+This eliminates the need for physical movement of securities certificates. Direct Participants
+include both U.S. and non-U.S. securities brokers and dealers, banks, trust companies, clearing
+corporations, and certain other organizations. DTC is a wholly-owned subsidiary of The
+Depository Trust & Clearing Corporation (“DTCC”). DTCC, in turn, is owned by a number of
+Direct Participants of DTC and Members of the National Securities Clearing Corporation, Fixed
+Income Clearing Corporation, and Emerging Markets Clearing Corporation (NSCC, FICC, AND
+EMCC, also subsidiaries of DTCC), as well as by the New York Stock Exchange, Inc., the
+American Stock Exchange LLC, and the National Association of Securities Dealers, Inc. Access
+to the DTC system is also available to others such as both U.S. and non-U.S. securities brokers
+and dealers, banks, trust companies, and clearing corporations that clear through or maintain a
+custodial relationship with a Direct Participant, either directly or indirectly (“Indirect
+Participants”). DTC has a rating of “AA+” from S&P Global Ratings, a Standard and Poor’s
+Financial Services LLC business. The DTC Rules applicable to its Participants are on file with the
+Securities and Exchange Commission. More information about DTC can be found at
+www.dtcc.com and www.dtc.org.
+
+        Purchases of the Bonds under the DTC system must be made by or through Direct
+Participants, which will receive a credit for the Bonds on DTC’s records. The ownership interest
+of each actual purchaser of each Bond (“Beneficial Owner”) is in turn to be recorded on the Direct
+and Indirect Participants’ records. Beneficial Owners will not receive written confirmation from
+DTC of their purchase. Beneficial Owners are, however, expected to receive written confirmations
+providing details of the transaction, as well as periodic statements of their holdings, from the Direct
+or Indirect Participant through which the Beneficial Owner entered into the transaction. Transfers
+of ownership interests in the Bonds are to be accomplished by entries made on the books of Direct
+and Indirect Participants acting on behalf of Beneficial Owners. Beneficial Owners will not
+receive certificates representing their ownership interests in the Bonds, except in the event that use
+of the book-entry system for the Bonds is discontinued.
+
+        To facilitate subsequent transfers, all Bonds deposited by Direct Participants with DTC (or
+the Paying Agent and Registrar on behalf of DTC utilizing the DTC FAST system of registration)
+are registered in the name of DTC’s partnership nominee, Cede & Co. or such other name as may
+be requested by an authorized representative of DTC. The deposit of Bonds with DTC (or the
+Paying Agent and Registrar on behalf of DTC utilizing the DTC FAST system of registration) and
+their registration in the name of Cede & Co. or such other nominee do not effect any change in
+beneficial ownership. DTC has no knowledge of the actual Beneficial Owners of the Bonds;
+DTC’s records reflect only the identity of the Direct Participants to whose accounts such Bonds
+are credited, which may or may not be the Beneficial Owners. The Direct and Indirect Participants
+will remain responsible for keeping account of their holdings on behalf of their customers.
+
+        Conveyance of notices and other communications by DTC to Direct Participants, by Direct
+Participants to Indirect Participants, and by Direct Participants and Indirect Participants to
+Beneficial Owners will be governed by arrangements among them, subject to any statutory or
+regulatory requirements as may be in effect from time to time.
+
+        Neither DTC nor Cede & Co. (nor such other DTC nominee) will consent or vote with
+respect to the Bonds unless authorized by a Direct Participant in accordance with DTC’s
+Procedures. Under its usual procedures, DTC mails an Omnibus Proxy to the School District as
+soon as possible after the record date. The Omnibus Proxy assigns Cede & Co.’s consenting or
+voting rights to those Direct Participants to whose accounts the Bonds are credited on the record
+date (identified in a listing attached to the Omnibus Proxy).
+
+       All payments on the Bonds will be made to Cede & Co., or such other nominee as may be
+requested by an authorized representative of DTC. DTC’s practice is to credit Direct Participants’
+
+                                                  3
+
+accounts, upon DTC’s receipt of funds and corresponding detail information from the School
+District or Agent on payable date in accordance with their respective holdings shown on DTC’s
+records. Payments by Participants to Beneficial Owners will be governed by standing instructions
+and customary practices, as is the case with securities held for the accounts of customers in bearer
+form or registered in “street name,” and will be the responsibility of such Participant and not of
+DTC, Agent, or the School District, subject to any statutory or regulatory requirements as may be
+in effect from time to time. Payment of any payments to Cede & Co. (or such other nominee as
+may be requested by an authorized representative of DTC) is the responsibility of the School
+District or Agent. Disbursement of such payments to Direct Participants shall be the responsibility
+of DTC, and disbursement of such payments to the Beneficial Owners shall be the responsibility
+of Direct and Indirect Participants.
+
+        DTC may discontinue providing its services as securities depository with respect to the
+Bonds at any time by giving reasonable notice to the School District or Agent. Under such
+circumstances, the event that a successor securities depository is not obtained, Bond certificates
+are required to be printed and delivered.
+
+        The School District may decide to discontinue use of the system of book-entry-only
+transfers through DTC (or a successor securities depository). In that event, Bond certificates will
+be printed and delivered to DTC.
+
+       The information in this section concerning DTC and DTC’s book-entry system has been
+obtained from sources that the School District believes to be reliable, but the School District takes
+no responsibility for the accuracy thereof.
+
+Security and Source of Payment
+
+        The Bonds, in the opinion of Bond Counsel, are direct and general obligations of the School
+District and are payable as to both principal and interest from ad valorem taxes to be levied against
+all taxable property within the School District, without limitation as to rate or amount.
+
+        Ad valorem taxes for the Bonds shall be levied annually beginning in Fiscal Year 2020-21,
+shall become delinquent one-half on January 1 and one-half on April 1 of each year, and are
+required to be collected by the County Treasurer, apportioned and paid over to the School District
+Treasurer, and then deposited directly and only into the Sinking Fund of the School District. IN
+NO EVENT MAY SUCH AD VALOREM TAXES BE DEPOSITED INTO THE GENERAL
+FUND OR ANY FUND OF THE SCHOOL DISTRICT OTHER THAN THE SINKING FUND.
+
+         As stated above, the Bonds are payable from ad valorem taxes on all taxable property
+within the School District including real, personal and public service property, and any other
+moneys available for such purpose. Real and personal property in the School District is currently
+assessed at a rate of approximately 11% of estimated full market value. Public service property
+assessments are determined by the Oklahoma State Tax Commission, and currently the assessment
+ratio is approximately 11.84% of estimated full market value of airline and railroad property and
+22.85% of estimated full market value of all other public service property. Pursuant to Oklahoma
+statutes, County Assessors are required to reassess property within the County at least once each
+five years. The School District is required to pay its proportionate share of the cost of such
+reassessment.
+
+        Ad valorem tax rates for Sinking Fund purposes are determined by ascertaining the actual
+dollars of revenues required for payment of principal and interest on indebtedness, fees to fiscal
+and paying agents and judicial judgments. Such total amount may be reduced by any surplus from
+the prior fiscal year and any contributions made into the Sinking Fund. To the resulting net
+requirements a reserve for delinquent taxes, in an amount of not less than 5% nor more than 20%
+
+                                                 4
+
+of the net required tax collection, shall be added to the required collections. Such final total
+requirements shall then be divided by the total net assessed valuation of all real, personal and
+public service property in order to determine the appropriate tax rate for each property owner.
+
+        One hundred percent (100%) of the School District's Sinking (Debt Service) Fund revenues
+come from locally collected ad valorem taxes. None of these ad valorem taxes are collected or
+disbursed by the State of Oklahoma. Furthermore, as stated above, Sinking Fund taxes are
+collected by the County Treasurers of the counties in which the School District is situated, are
+apportioned and paid over to the School District Treasurer and cannot, by Oklahoma Law, be
+placed in any fund of the School District other than the Sinking Fund. They may be used only for
+the payment of principal of and interest on indebtedness (including judicial judgments) of the
+School District.
+
+                   INDEPENDENT SCHOOL DISTRICT NO. 9, GARVIN
+                             COUNTY, OKLAHOMA
+
+General Information
+         The School District is located in south central Oklahoma, in Garvin County, approximately
+54 miles south of the City of Oklahoma City, Oklahoma. The School District, encompassing
+approximately 209 square miles, serves the City of Lindsay (population: 3,200) and the
+surrounding rural area in Garvin, Grady and McClain Counties. School District administrators
+estimate the population of the School District to be approximately 6,100 people. The School
+District employs 91 certified teachers, has an enrollment of 1,232 and operates 9 regular bus routes
+transporting approximately 80% of the student body to and from school daily. The School District
+is fully accredited by the Oklahoma State Department of Education and by AdvancED.
+
+        Residents of the School District are employed at businesses in the City of Lindsay and
+surrounding communities, with those not so employed primarily engaged in farming and ranching.
+No separate employment figures are available for the School District; however, preliminary figures
+provided by the United States Department of Labor’s Bureau of Labor Statistics indicate the
+current (February 2019) unemployment rate for Garvin County is 3.3% compared to 3.5% in the
+State of Oklahoma as a whole, and 4.1% for the United States.
+
+                                    FINANCIAL MATTERS
+
+Ad Valorem Taxes
+
+        Taxable property in the State of Oklahoma (the “State”) is placed in one of three
+classifications: real property, personal property, and public service property. Assessment ratios for
+real and personal property are determined locally by each County Assessor within guidelines
+established by the State Board of Equalization and the Oklahoma Tax Commission. Real property
+assessment ratios may range from 11% to 13.5% of full market value, and personal property
+assessment ratios may range from 10% to 15%. The assessment ratio for public service property
+is determined on a statewide basis by the Oklahoma Tax Commission Currently, real and personal
+property in the County is assessed at a ratio of 11% of full market value. Public service property
+is assessed at a ratio of 11.84% of estimated full market value of airline and railroad property and
+22.85% of estimated full market value of all other public service property. County Assessors are
+required to reassess property within the County at least once each five years. The School District
+is required to pay its proportionate share of the cost of such reassessment.
+
+       School districts in Oklahoma are limited to a total of thirty-five (35) mills ad valorem tax
+for operating (General Fund) purposes, and five (5) mills for Building Fund purposes. In addition,
+Oklahoma statutes require that the School District each year make an ad valorem tax levy for a
+
+                                                 5
+
+Sinking Fund which shall, with cash and investments in the fund, be sufficient to pay all the bonded
+indebtedness, interest and one-third of all outstanding judgments coming due in the following year.
+Such funds are placed in the School District’s Sinking Fund and are expended only for these
+purposes. The ad valorem tax rates for Sinking Fund purposes are determined by ascertaining the
+actual dollars of revenues required for payment of principal and interest on indebtedness and
+judicial judgments. Such total amount may be reduced by any surplus from the prior fiscal year
+and any contributions made into the Sinking Fund in lieu of ad valorem taxes. To the resulting net
+requirements a reserve for delinquent taxes, in an amount of not less than 5% nor more than 20%
+of the net required tax collection, shall be added to the required collections. Such final total
+requirements shall then be divided by the total net assessed valuation of all taxable property in
+order to determine the appropriate tax rate for each property owner.
+
+        After review and approval by the Board of Education, copies of the Sinking Fund Estimate
+are submitted to the County Excise Board to determine the ad valorem tax levy and appropriations.
+This submission is required to be made by August 27th of each year. The estimates are for the
+purposes of determining ad valorem taxes required to fund the General, Building, and Sinking
+Funds. The amounts contained in the Estimate of Needs are verified by the County Excise Board
+and, upon verification, the levy contained therein is ordered to be certified to the County Assessor
+in order that the County Assessor may extend said levy upon the tax rolls for the year for which
+the Estimate of Needs is submitted. While the County Excise Board may make recommendations
+with respect to the levy request, it only has the authority to change the reserve for delinquent taxes.
+
+        The County Assessor is required to file a tax roll report on or before October 1 of each year
+with the County Treasurer indicating the net assessed valuation for each municipality within the
+County. This report includes the assessed valuation for all real, personal and public service
+property. The County Treasurer has fifteen days after receipt of the tax roll report to start collecting
+taxes. The first half of taxes is due and payable on November 1 of each year. The second half is
+due and payable on or before April 1 of each year. However, if the first half is not paid by January
+1, both first and second half are declared delinquent as of January 1. If the first half taxes are paid
+in a timely manner and the second half taxes are not paid on or before April 1, the taxes are
+considered delinquent. Interest accrues on delinquent taxes at the rate of 1.5% monthly (18%
+annually), to a maximum of 100% of the taxes due and owing, until such time as the delinquent
+taxes are paid. In the event taxes and accrued interest are not paid, the property is sold at tax sale
+on October 1 and the purchaser is issued a certificate of tax lien; however, the original owner of
+the property has two years in which to redeem the property by paying the taxes, interest and
+penalties owed. If, at the end of two years he has not done so, the purchaser may then apply for a
+deed to the property. If there is no purchaser, then the county acquires the same lien and the
+property is auctioned after approximately two and one-half years.
+
+
+
+
+                                                   6
+
+Compliance with Constitutional Debt Limitation
+
+        The current, summary debt statement of the School District revised from that filed with the
+State of Oklahoma as of June 30, 2018, is shown below:
+
+2018-19 Estimated Full Market Value                                                   $836,534,863
+
+2018-19 Assessed Valuation, including Homestead Exemptions                              $97,111,591
+
+2018-19 Assessed Valuation, excluding Homestead Exemption                               $95,399,911
+
+        The County or Counties indicated below, if any, have held an election under Oklahoma
+Constitution Article X, §6(B) approving an exemption of certain household and personal property
+from ad valorem taxation. Accordingly, said County or Counties have calculated the “millage
+adjustment factor” to be applied to debt percentage limits under Article 10, Section 26(b), resulting
+in an adjusted debt limit. The adjusted debt limit is as follows:
+
+                                            District              Millage            District
+                           Net             Unadjusted           Adjustment           Adjusted
+                         Assessed            Legal                Factor              Legal
+      County             Valuation        Debt Limit (1)         (If App.)         Debt Limit (2)
+
+ Garvin County        $53,428,497      $5,342,849.70      1.02200000000      $5,460,392.39
+ Grady County         $34,092,617      $3,409,261.70      1.03853590000      $3,540,640.67
+ McClain County        $7,878,797        $787,879.70      1.03600000000        $816,243.37
+   TOTAL ADJUSTED LEGAL DEBT LIMIT (BONDING CAPACITY)                        $9,817,276.43
+____________________
+(1)    Net Assessed Valuation times 10%.
+(2)    District Unadjusted Legal Debt Limit times Millage Adjustment Factor.
+
+Total Bonded Indebtedness (including the Bonds)               $7,145,000
+Less: Current Sinking Fund Balance                               945,252
+Net General Obligation Bonded Indebtedness                                               $6,199,748
+
+Remaining Bonding Capacity                                                               $3,617,528
+
+Ratio of Net General Obligation Bonded Indebtedness
+to Net Assessed Valuation                                                                     6.50%
+Ratio of Net General Obligation Bonded Indebtedness
+to Estimated Full Market Value                                                                0.74%
+
+
+
+
+                                                 7
+
+Authorized but Unissued Bonds
+
+        The School District has an additional $12,510,000 in Building Bonds authorized to be
+issued. The remaining bonds are expected to be issued as follows: $1,390,000 in July 2021;
+$1,390,000 in July 2022; $1,390,000 in July 2023; $1,390,000 in July 2024; $1,390,000 in July
+2025; $1,390,000 in July 2026; $1,390,000 in July 2027; $1,390,000 in July 2028; and $1,390,000
+in July 2029.
+
+Composition and Growth of the Net Assessed Valuation
+
+      The composition of the Net Assessed Valuation of the School District for the Fiscal Year
+2018-19 is as follows:
+
+                       Garvin           Grady            McClain
+ Property              County           County           County            Total         Percentage
+
+ Real               $19,106,467        $1,193,105      $4,150,351       $24,449,923         25.63%
+ Personal           $27,834,348       $30,476,747      $2,818,684       $61,129,779         64.08%
+ Public Service      $6,487,682        $2,422,765        $909,762        $9,820,209         10.29%
+ TOTAL              $53,428,497       $34,092,617      $7,878,797       $95,399,911        100.00%
+
+ Percentage              56.00%           35.74%            8.26%          100.00%
+
+       The growth of the Net Assessed Valuation of the School District for the past ten years has
+been as follows:
+
+   Fiscal                            Fiscal
+   Year            Amount            Year            Amount
+
+ 2018-2019        $95,399,911     2013-2014         $44,342,237
+ 2017-2018        $83,416,634     2012-2013         $39,010,151
+ 2016-2017        $79,766,022     2011-2012         $33,073,717
+ 2015-2016        $63,676,034     2010-2011         $31,467,535
+ 2014-2015        $51,897,611     2009-2010         $33,419,548
+
+      During this period, the Net Assessed Valuation of the School District increased
+$61,980,363 or 185.46%.
+
+
+
+
+                                               8
+
+General Obligation Bonded Debt Outstanding
+
+               Original
+  Date of      Principal        Remaining         Maturity          Total
+ Issuance      Amount           Maturities         Dates         Outstanding
+
+  7-1-14        $350,000           $90,000            7-1-19        $90,000
+
+  7-1-17      $1,305,000        $1,305,000            7-1-19     $1,305,000
+
+  2-1-18      $1,390,000         $125,000             2-1-20
+                                $1,265,000            2-1-21     $1,390,000
+
+  1-1-19      $2,780,000         $310,000            1-1-21
+                                $1,235,000        1-1-22/23      $2,780,000
+
+  7-1-19      $1,580,000          $400,000           7-1-21
+                                  $590,000        7-1-22/23      $1,580,000
+ TOTAL                                                           $7,145,000
+
+Annual Debt Service Requirements of General Obligation Bonded Debt Outstanding
+
+                                                                                              Total New
+   Fiscal                  Existing Bonds                Combined Purpose Bonds*             Debt Service
+   Year              Principal         Interest           Principal      Interest            Requirement
+
+ 2018-2019                                                                                       $0.00
+ 2019-2020     $1,520,000.00       $106,070.00                                           $1,626,070.00
+ 2020-2021     $1,575,000.00       $208,530.00                                           $1,783,530.00
+ 2021-2022     $1,235,000.00        $80,275.00         $400,000.00      $103,125.00      $1,818,400.00
+ 2022-2023     $1,235,000.00        $40,137.50         $590,000.00       $24,337.50      $1,889,475.00
+ 2023-2024                                             $590,000.00        $8,112.50        $598,112.50
+  TOTAL        $5,565,000.00       $435,012.50      $1,580,000.00       $135,575.00      $7,715,587.50
+____________________
+*     The average annual interest rate on the Bonds is assumed to be 2.75%.
+
+Net Direct, Overlapping and Underlying General Obligation Bonded Indebtedness (as of
+       June 30, 2018)
+
+                                                    Amount           Ratio to
+                                                   Applying         Assessed         Per
+                                  Net                to the        Value of the     Capita
+      Municipality            Indebtedness        School Dist.     School Dist.      Debt
+
+ Lindsay School District        $6,199,748         $6,199,748           6.50%     $1,016.35
+ City of Lindsay                        $0                 $0           0.00%         $0.00
+ Garvin County                          $0                 $0           0.00%         $0.00
+ Grady County                           $0                 $0           0.00%         $0.00
+ McClain County                         $0                 $0           0.00%         $0.00
+ TOTAL                          $6,199,748         $6,199,748           6.50%     $1,016.35
+
+
+
+
+                                                  9
+
+Sinking Fund Tax Collections
+
+                                                                                  Percentage
+                    Total         Current           Percentage        Total        of Total
+   Fiscal           Tax             Tax              of Levy           Tax        Collected to
+   Year             Levy         Collections        Collected       Collections   Total Levy
+
+ 2017-2018       $1,563,464      $1,463,494           93.61%        $1,514,630        96.88%
+ 2016-2017       $1,406,958      $1,249,600           88.82%        $1,264,495        89.87%
+ 2015-2016        $668,205        $644,194            96.41%          $659,622        98.72%
+ 2014-2015        $687,766        $673,175            97.88%          $688,546       100.11%
+ 2013-2014        $634,763        $619,862            97.65%          $633,663        99.83%
+ 2012-2013        $513,727        $499,309            97.19%          $515,699       100.38%
+
+Trend of Tax Rates of Major Taxing Units*
+
+                Lindsay
+   Fiscal       School        City of      Garvin        Technology       Total
+   Year         District      Lindsay      County          Center         Levy
+
+ 2009-2010        56.48          0.00        16.95               11.25    84.68
+ 2010-2011        58.56          0.00        16.95               11.25    86.76
+ 2011-2012        56.94          0.00        16.95               11.25    85.14
+ 2012-2013        54.22          0.00        16.95               11.25    82.42
+ 2013-2014        55.37          0.00        16.95               11.25    83.57
+ 2014-2015        54.30          0.00        16.95               11.25    82.50
+ 2015-2016        51.54          0.00        16.95               11.25    79.74
+ 2016-2017        58.69          0.00        16.95               11.25    86.89
+ 2017-2018        59.79          0.00        16.95               11.25    87.99
+ 2018-2019        58.57          0.00        16.95               11.25    86.77
+____________________
+* Expressed in dollars per $1,000 of net assessed valuation.
+
+
+
+
+                                               10
+
+Largest Taxpayers
+
+         Name of Taxpayer                       Type of Business              Net Assessed Valuation
+
+ DCP Operating Company LP               Oil & Gas Industry                                 $5,451,996
+ Enable Gas Gathering, LLC              Oil & Gas Industry                                 $4,439,386
+ Plains Pipeline, LP                    Pipeline                                           $2,362,696
+ ONEOK Maysville Gas Gathering          Oil & Gas Industry                                 $2,291,113
+ Precision Drilling Company             Oil & Gas Industry                                 $1,378,674
+ Woodford Express, LLC                  Oil & Gas Industry                                 $1,321,026
+ DCP Lindsay, LLC                       Oil & Gas Industry                                 $1,310,503
+ USAC Leasing, LLC                      Oil & Gas Industry                                 $1,207,032
+ AEP Oklahoma Transmission Co.          Electrical Transmission Lines                      $1,056,037
+ Targa Pipeline Mid-Continent           Pipeline                                           $1,017,309
+                     Total Net Assessed Valuation of Top Ten Taxpayers:                   $21,835,772
+                  Percentage of School District's Net Assessed Valuation:                     22.89%
+
+Source: Garvin County Assessor’s Office.
+
+                                          LITIGATION
+
+        To the knowledge of the School District, there is no litigation pending seeking to restrain
+or enjoin the issuance or delivery of the Bonds or questioning or affecting the legality of the Bonds
+or proceedings and authority under which the Bonds are to be issued. There is no litigation pending
+which in any manner questions the right of the School District to construct or finance the proposed
+improvements.
+
+                                       LEGAL MATTERS
+
+        All matters incident to the authorization and issuance of the Bonds are subject to the
+approval of the Attorney General of the State of Oklahoma and to the approval of Hilborne &
+Weidman, Bond Counsel, Tulsa, Oklahoma. Bond Counsel has not participated in the preparation
+of the Official Statement. Accordingly, Bond Counsel has no responsibility for the accuracy,
+sufficiency or completeness of any information furnished in connection with any offer or sale of
+the Bonds.
+
+                                 CONTINUING DISCLOSURE
+
+        The School District has covenanted for the benefit of Bondholders to provide certain
+financial and operating information for the School District not later than ten months following the
+end of the fiscal year in which the bonds are issued (as of the date of this document, June 30 is the
+end of the fiscal year), or later as such information becomes publicly available, and each fiscal
+year thereafter, and to provide notice of the occurrence of certain events. The specific nature of
+the financial information and operating data to be provided and the events for which notice must
+be provided is described in the Continuing Disclosure Certificate (the “Disclosure Certificate”),
+the form of which is attached hereto as Appendix A.These covenants have been made in order to
+assist the Underwriters in complying with Rule 15c2-12 promulgated by the Securities and
+Exchange Commission (“Rule 15c2-12”).
+
+       The financial information and event notices will be filed by the School District or its
+dissemination agent with the Municipal Securities Rulemaking Board (the “MSRB”) through the
+
+
+                                                 11
+
+MSRB’s Electronic Municipal Market Access system (“EMMA”). EMMA is an internet-based,
+online portal for free investor access to municipal bond information, including offering documents,
+material event notices, real-time municipal securities trade prices and MSRB education resources,
+available at www.emma.msrb.org. Nothing contained on EMMA relating to the School District
+or the Bonds is incorporated by reference in this Official Statement.
+
+        A failure by the School District to comply with the Continuing Disclosure Certificate will
+not constitute an event of default with respect to the Bonds, although any holder will have any
+available remedy at law or in equity, including seeking specific performance by court order, to
+cause the School District to comply with its obligations under the Continuing Disclosure
+Certificate. Any such failure must be reported in accordance with Rule 15c2-12 and must be
+considered by any broker, dealer or municipal securities dealer before recommending the purchase
+or sale of the Bonds in the secondary market. Consequently, such a failure may adversely affect
+the transferability and liquidity of the Bonds and their market price.
+
+        Rule 15c2-12 requires that an issuer or other obligated party disclose in its official
+statement any instances in the previous five years in which such issuer or obligated party failed to
+comply, in all material respects, with any previous undertakings in a written contract or agreement
+specified in paragraph (b)(5) or (d)(2) of the Rule. In connection with one or more of the District’s
+previous bond issues or bond issues of an authority issued on behalf of the District, the District
+entered into individual continuing disclosure undertakings (“Undertakings”) in written agreements
+specified in paragraph (b)(5)(i) or (d)(2) of the Rule. The District does not believe it has failed to
+comply with any of these Undertakings within the previous five years.
+
+                                         TAX MATTERS
+
+Federal Tax Matters
+
+        Tax Opinions. In the opinion of Bond Counsel, under existing laws, regulations, rulings
+and judicial decisions, interest on the Bonds is excludable from gross income for federal income
+tax purposes and is not a specific preference item for purposes of the federal alternative minimum
+tax on individuals and corporations; however, it should be noted that with respect to certain
+corporations (as defined for federal income tax purposes), for taxable years beginning before
+January 1, 2018, such interest is taken into account in determining adjusted current earnings for
+the purpose of computing the alternative minimum tax imposed on such corporations. No federal
+alternative minimum tax applies to corporations for taxable years beginning after December 31,
+2017. The opinions described in the preceding sentences assume the accuracy of certain
+representations and compliance by the School District with covenants designed to satisfy the
+requirements of the Code that must be met subsequent to the issuance of the Bonds. Failure to
+comply with such requirements could cause interest on the Bonds to be included in gross income
+for federal income tax purposes retroactive to the date of issuance of the Bonds. The School
+District has covenanted to comply with such requirements.
+
+        In order to maintain the exclusion from federal gross income of interest on the Bonds and
+for no other purpose, the School District covenants in the No-Arbitrage Certificate or Arbitrage
+and Use of Proceeds Certificate, and the Resolution Designating Bonds as Qualified Tax-Exempt
+Obligations, if applicable, to comply with the provisions of the Code. Until and unless, and except
+to the extent in the opinion of Bond Counsel, the following are not necessary to maintain the
+exclusion from federal gross income of interest on the Bonds, the School District makes certain
+covenants, representations and warranties with respect to the Bonds. The School District covenants
+to submit in a timely manner all reports, accountings and information to the Internal Revenue
+Service, take whatever action is necessary within its power to assure the continued tax exemption
+on the Bonds, and take whatever action is necessary within its power to comply with the applicable
+laws and regulations in order to maintain the exclusion from federal gross income of interest on
+
+                                                 12
+
+the Bonds. The School District covenants to not use Bond proceeds in any manner that would
+result in the loss of the tax-exempt status of the Bonds.
+
+         Notwithstanding Bond Counsel’s opinion that interest on the Bonds is not a specific
+preference item for purposes of the federal alternative minimum tax, for taxable years beginning
+before January 1, 2018, such interest will be included in adjusted current earnings of certain
+corporations, and such corporations are required to include in the calculation of alternative
+minimum taxable income 75% of the excess of such corporations’ adjusted current earnings over
+their alternative minimum taxable income (determined without regard to such adjustment and prior
+to reduction for certain net operating losses). No federal alternative minimum tax applies to
+corporations for taxable years beginning after December 31, 2017.
+
+         The accrual or receipt of interest on the Bonds may otherwise affect the federal income tax
+liability of the owners of the Bonds. The extent of these other tax consequences will depend upon
+such owner’s particular tax status and other items of income or deduction. Bond Counsel expresses
+no opinion regarding any such consequences. Purchasers of the Bonds, particularly purchasers that
+are corporations (including S corporations and foreign corporations operating branches in the
+United States), property or casualty insurance companies, banks, thrifts or other financial
+institutions, certain recipients of social security or railroad retirement benefits, taxpayers otherwise
+entitled to claim the earned income credit, or taxpayers who may be deemed to have incurred or
+continued indebtedness to purchase or carry tax-exempt obligations, should consult their tax
+advisors as to the tax consequences of purchasing or owning the Bonds.
+
+        Original Issue Premium. Bonds sold at initial public offering prices that are greater than
+the respective stated amounts to be paid at maturity constitute “Premium Bonds”. An amount
+equal to the excess of the issue price of a Premium Bond over its stated redemption price at
+maturity constitutes premium on such Premium Bond. An initial purchaser of a Premium Bond
+must amortize any premium over the term of such Premium Bond using constant yield principles,
+based on the purchaser’s yield to maturity. As premium is amortized, the purchaser’s basis in such
+Premium Bond is reduced by a corresponding amount resulting in an increase in the gain (or
+decrease in the loss) to be recognized for federal income tax purposes upon a sale or disposition
+of such Premium Bond prior to its maturity. Even though the purchaser’s basis may be reduced,
+no federal income tax deduction is allowed. Purchasers of a Premium Bond should consult with
+their tax advisors with respect to the determination and treatment of amortizable premium for
+federal income tax purposes and with respect to the state and local tax consequences of owning a
+Premium Bond.
+
+        Bank Qualified. The School District has represented that it does not expect to issue greater
+than $10,000,000 of tax-exempt obligations during the 2018 calendar year (excluding certain
+private activity bonds and refunding bonds), and in the Resolution it has designated the Bonds as
+“qualified tax-exempt obligations” within the meaning of Section 265(b)(3) of the Code.
+Accordingly, Bond Counsel is of the opinion that in the case of certain banks, thrift institutions or
+other financial institutions owning the Bonds, a deduction is allowed for 80% of that portion of
+such institutions’ interest expense allocable to interest on the Bonds. Bond Counsel expresses no
+opinion with respect to any deduction for federal tax law purposes of interest on indebtedness
+incurred or continued by a holder of the Bonds or a related person to purchase or carry the Bonds.
+
+        Backup Withholding. As a result of the enactment of the Tax Increase Prevention and
+Reconciliation Act of 2005, interest on tax-exempt obligations such as the Bonds is subject to
+information reporting in a manner similar to interest paid on taxable obligations. Backup
+withholding may be imposed on payments made after March 31, 2007 to any bondholder who fails
+to provide certain required information including an accurate taxpayer identification number to
+any person required to collect such information pursuant to Section 6049 of the Code. The
+reporting requirement does not in and of itself affect or alter the excludability of interest on the
+
+                                                  13
+
+Bonds from gross income for federal income tax purposes or any other federal tax consequence of
+purchasing, holding or selling tax-exempt obligations.
+
+      No Other Opinion. Bond Counsel expresses no other opinion regarding the federal tax
+consequences arising with respect to the Bonds.
+
+State Tax Matters
+
+       In the opinion of Bond Counsel, under the existing laws of the State, the interest on the
+Bonds is exempt from Oklahoma state income taxation. Bond Counsel expresses no other opinion
+regarding the State or local tax consequences arising with respect to the Bonds.
+
+Changes in Federal and State Tax Law
+
+         From time to time, there are legislative proposals in the Congress and in the states that, if
+enacted, could alter or amend the federal and state tax matters referred to above or adversely affect
+the market value of the Bonds. It cannot be predicted whether or in what form any such proposal
+might be enacted or whether if enacted it would apply to bonds issued prior to enactment. In
+addition, regulatory actions are from time to time announced or proposed and litigation is
+threatened or commenced which, if implemented or concluded in a particular manner, could
+adversely affect the market value of the Bonds. It cannot be predicted whether any such regulatory
+action will be implemented, how any particular litigation or judicial action will be resolved, or
+whether the Bonds or the market value thereof would be impacted thereby. Purchasers of the
+Bonds should consult their tax advisors regarding any pending or proposed legislation, regulatory
+initiatives or litigation. The opinions expressed by Bond Counsel are based upon existing
+legislation and regulations as interpreted by relevant judicial and regulatory authorities as of the
+date of issuance and delivery of the Bonds, and Bond Counsel expresses no opinion as of any date
+subsequent thereto or with respect to any pending legislation, regulatory initiatives or litigation.
+
+                                             RATINGS
+
+        The School District is currently rated “Oklahoma #1” by The Municipal Rating Committee
+of Oklahoma, Inc. Neither the School District nor the Financial Advisor has obtained, nor do they
+plan to obtain, a rating of the Bonds from any other rating agency.
+
+                                  FINANCIAL STATEMENTS
+
+       Excerpts from the financial statements of the School District for the fiscal year ended June
+30, 2018, which were examined by Sanders, Bledsoe & Hewett, Certified Public Accountants,
+LLP, Broken Arrow, Oklahoma, appear in this Official Statement as Exhibit A. A copy of the
+complete audit report is available upon request from the School District's financial advisor.
+
+
+
+
+                                                 14
+
+                                       UNDERWRITING
+
+       The Bonds have been sold at public sale by the School District to the Underwriters, and
+the Underwriters have jointly and severally agreed, subject to certain conditions, to purchase all of
+the Bonds at a price equal to $1,580,000.00. The successful proposal for the Bonds was submitted
+by Country Club Bank, Prairie Village, Kansas, as representative of the Underwriters.
+
+       While the Underwriters expect, insofar as possible, to maintain a secondary market for the
+Bonds, no assurance can be given concerning the future maintenance of such a market by the
+Underwriters or others, and prospective purchasers of the Bonds should therefore be prepared to
+hold their Bonds to their maturity.
+
+       The Underwriters are not acting as a financial advisor to the School District in connection
+with the offer and sale of the Bonds.
+
+                                 CONCLUDING STATEMENT
+        To the extent that any statements made in this Official Statement involve matters of opinion
+or estimates, whether or not expressly stated to be such, they are made as such and not as
+representations of fact or certainty and no representation is made that any of these statements have
+been or will be realized. Information in this Official Statement has been derived by the School
+District from official and other sources and is believed by the School District to be accurate and
+reliable. Information other than that obtained from official records of the School District has not
+been independently confirmed or verified by the School District and its accuracy is not guaranteed.
+
+       Neither this Official Statement nor any statement that may have been made orally or in
+writing in connection herewith is to be construed as or as a part of a contract with the original
+purchasers or subsequent owners of the Bonds.
+
+                                          Independent School District No. 9,
+                                          Garvin County, Oklahoma
+
+
+
+                                          /s/ Mitch Lindsey
+                                          President, Board of Education
+
+ATTEST:
+
+
+
+/s/ Clint L. Simonton
+Clerk, Board of Education
+
+
+
+
+                                                 15
+
+                       Appendix A – Continuing Disclosure Certificate
+
+                       CONTINUING DISCLOSURE CERTIFICATE
+
+        This Continuing Disclosure Certificate (the “Disclosure Certificate”) is executed and
+delivered by Independent School District No. 9 of Garvin County, Oklahoma (the “Issuer”) in
+connection with the issuance of $1,580,000 General Obligation Combined Purpose Bonds of 2019
+(the “Bonds”). The Bonds are being issued pursuant to a Resolution dated the 16th day of May,
+2019. The Issuer covenants and agrees as follows:
+
+       SECTION 1. Purpose of the Disclosure Certificate. This Disclosure Certificate is being
+executed and delivered by the Issuer for the benefit of the Bondholders, including beneficial
+owners, and in order to assist the Participating Underwriters in complying with paragraph (d)(2)
+of SEC Rule 15c2-12.
+
+       SECTION 2. Definitions. In addition to the definitions set forth in the Resolution, which
+apply to any capitalized term used in this Disclosure Certificate unless otherwise defined in this
+Section, the following capitalized terms shall have the following meanings:
+
+       “Annual Report” shall mean any Annual Report provided by the Issuer pursuant to, and
+as described in, Sections 3 and 4 of this Disclosure Certificate.
+
+        “Audited Financial Statements” shall mean the Issuer’s annual financial statements,
+prepared on a prescribed basis of accounting that demonstrates compliance with the cash basis and
+budget laws of the State of Oklahoma, which financial statements shall have been audited by such
+auditor as shall be then required or permitted by the laws of the State. Revenues are recorded as
+received in cash, except for revenues susceptible to accrual and material revenues that are not
+received at the normal time of receipt. Expenditures are recorded in the accounting period in which
+the fund liability is incurred and encumbered.
+
+       “Dissemination Agent” shall mean the Issuer, or any successor Dissemination Agent
+designated in writing by the Issuer and which has filed with the Issuer a written acceptance of such
+designation.
+
+      “EMMA” shall mean the Municipal Securities Rulemaking Board’s Electronic Municipal
+Market Access system.
+
+        "Financial Obligation" shall mean a (i) debt obligation; (ii) derivative instrument entered
+into in connection with, or pledged as security or a source of payment for, an existing or planned
+debt obligation; or (iii) guarantee of (i) or (ii). The term Financial Obligation shall not include
+municipal securities as to which a final official statement has been provided to the MSRB
+consistent with the Rule.
+
+        “Listed Events” shall mean any of the events listed in Section 5(a) of this Disclosure
+Certificate.
+
+         “Material” with respect to information, means information as to which a substantial
+likelihood exists that a reasonably prudent investor would attach importance thereto in deciding to
+buy or sell a Bond or, if not disclosed, would significantly alter the total information otherwise
+available to an investor from the offering document related to the Bonds, information disclosed
+hereunder, or information generally available to the public. Notwithstanding the foregoing,
+“Material” information includes information that would be deemed “material” for purposes of the
+purchase or sale of a Bond within the meaning of applicable federal securities laws, as interpreted
+at the time of discovery of the information.
+
+                                               A-1
+
+       “MSRB” means the Municipal Securities Rulemaking Board or any other entity designated
+or authorized by the Commission to receive reports pursuant to the Rule. Until otherwise
+designated by the MSRB or the Commission, filings with the MSRB are to be made through the
+EMMA website of the MSRB, currently located at http://emma.msrb.org.
+
+       “Participating Underwriter” shall mean any of the original underwriters of the Bonds
+required to comply with the Rule in connection with the offering of the Bonds.
+
+       “Prescribed Form” means, with regard to the filing of Annual Financial Information,
+Audited Financial Statements and notices of Listed Events with the MSRB at www.emma.msrb.org
+(or such other address or addresses as the MSRB may from time to time specify), such electronic
+format, accompanied by such identifying information, as shall have been prescribed by the MSRB
+and which shall be in effect on the date of filing of such information.
+
+       “Rule” shall mean Rule 15c2-12 adopted by the Securities and Exchange Commission
+under the Securities Exchange Act of 1934, as the same may be amended from time to time.
+
+       “State” shall mean the State of Oklahoma.
+
+       SECTION 3. Provision of Annual Reports.
+
+                (a)     The Issuer shall, or shall cause the Dissemination Agent to, not later than
+ten months following the end of the fiscal year in which the bonds are issued (as of the date of this
+Disclosure Certificate, June 30 is the end of the fiscal year), or later as such information becomes
+publicly available, and each fiscal year thereafter, provide annually to the MSRB an Annual Report
+which is consistent with the requirements of Section 4 of this Disclosure Certificate. If the Issuer
+has retained a separate Dissemination Agent, then not later than fifteen (15) Business Days prior
+to said date, the Issuer shall provide the Annual Report to the Dissemination Agent (if other than
+the Issuer). The Annual Report may be submitted as a single document or as separate documents
+comprising a package, and may cross-reference other information as provided in Section 4 of this
+Disclosure Certificate.
+
+               (b)      If the Issuer is unable to provide to the MSRB an Annual Report by the date
+required in the first sentence of subsection (a), the Issuer shall send, in a timely manner, a notice
+to the MSRB in substantially the form attached as Exhibit A.
+
+                (c)     If other than the Issuer, the Dissemination Agent shall file a report with the
+Issuer certifying that the Annual Report has been provided pursuant to this Disclosure Certificate.
+
+        SECTION 4. Content of Annual Reports. The Issuer’s Annual Report shall consist of
+certain financial information and operating data relating to the Issuer, but only to the extent such
+information is customarily prepared by the Issuer annually and is made publicly available. Such
+information shall consist solely of the Issuers Audited Financial Statements. If the Audited
+Financial Statements are not available by the time the Annual Report must be provided, unaudited
+financial statements will be provided and Audited Financial Statements will be provided, when
+and if available, to the MSRB.
+
+        The Issuer is required to deliver such information in Prescribed Form and by such time so
+that such entities receive the information by the dates specified.
+
+       Any or all of the items listed above may be incorporated by reference from other
+documents, including official statements of debt issues of the Issuer or related public entities,
+which have been submitted to each of the MSRB or the Securities and Exchange Commission. If
+
+                                                A-2
+
+the document incorporated by reference is a final official statement, it must be available from the
+Municipal Securities Rulemaking Board. The Issuer shall clearly identify each such other
+document so incorporated by reference.
+
+         If any part of the Annual Report can no longer be generated because the operations to which
+it is related have been materially changed or discontinued, the Issuer will disseminate a statement
+to such effect as part of its Annual Report for the year in which such event first occurs.
+
+       If any amendment is made to this Disclosure Certificate, the Annual Report for the year in
+which such amendment is made (or in any notice or supplement provided to the MSRB) shall
+contain a narrative description of the reasons for such amendment and its impact on the type of
+information being provided.
+
+       SECTION 5. Reporting of Listed Events.
+
+              (a)    Upon the occurrence of any of the following Listed Events, the Issuer (or
+the Dissemination Agent on behalf of the Issuer) shall give notice of the occurrence of such event
+to the MSRB in accordance with this Section 5:
+
+       1.      Principal and interest payment delinquencies;
+
+       2.      Non-payment related defaults, if Material;
+
+       3.      Unscheduled draws on debt service reserves reflecting financial difficulties;
+
+       4.      Unscheduled draws on credit enhancements reflecting financial difficulties;
+
+       5.      Substitution of credit or liquidity providers, or their failure to perform;
+
+       6.      Adverse tax opinions, the issuance by the Internal Revenue Service of proposed or
+               final determinations of taxability, Notices of Proposed Issue (IRS Form 5701-
+               TEB), or other material notices of determinations with respect to the tax status of
+               the Bonds, or other material events affecting the tax status of the Bonds;
+
+       7.      Modification to rights of Bondholders, if Material;
+
+       8.      Bond calls, if Material, and tender offers;
+
+       9.      Defeasances;
+
+       10.     Release, substitution, or sale of property securing repayment of the Bonds, if
+               Material;
+
+       11.     Rating changes;
+
+       12.     Bankruptcy, insolvency, receivership or similar event of the Issuer;
+
+       13.     The consummation of a merger, consolidation, or acquisition involving the Issuer,
+               or the sale of all or substantially all of the assets of the Issuer, other than in the
+               ordinary course of business, the entry into a definitive agreement to undertake such
+               an action or the termination of a definitive agreement relating to any such actions,
+               other than pursuant to its terms, if Material;
+
+
+
+                                                A-3
+
+       14.     Appointment of a successor or additional Trustee/Paying Agent or the change of
+               name of a Trustee/Paying Agent, if Material;
+
+       15.     Incurrence of a financial obligation of the obligated person, if material, or
+               agreement to covenants, events of default, remedies, priority rights, or other similar
+               terms of a financial obligation of the obligated person, any of which affect security
+               holders, if material; and
+
+       16.     Default, event of acceleration, termination event, modification of terms, or other
+               similar events under the terms of a financial obligation of the obligated person, any
+               of which reflect financial difficulties.
+
+                (b)      Whenever the Issuer obtains knowledge of the occurrence of a Listed Event,
+the Issuer shall file a notice of the occurrence of a Listed Event in Prescribed Form with the MSRB
+within 10 business days of the occurrence of the applicable event. Notwithstanding the foregoing:
+notice of the occurrence of any Listed Event described in (a)(8) above need not be given under this
+Section 5 any earlier than when notice (if any) of the underlying event is given to the registered
+owners of the affected Bonds pursuant to the resolution authorizing the issuance of the Bonds; and
+notice of any scheduled sinking fund redemption in accordance with the schedule set forth in such
+resolution or the Official Statement need not be given under this Disclosure Certificate.
+
+         SECTION 6. Termination of Reporting Obligation. The Issuer’s obligation under this
+Disclosure Certificate shall terminate upon the defeasance, prior redemption or payment in full of
+all of the Bonds.
+
+       SECTION 7. Dissemination Agent. The Issuer may, from time to time, appoint or engage
+a Dissemination Agent to assist it in carrying out its obligations under this Disclosure Certificate,
+and may discharge any such Agent, with or without appointing a successor Dissemination Agent.
+The initial Dissemination Agent shall be the Issuer.
+
+        SECTION 8. Amendment; Waiver. Notwithstanding any other provision of the
+Disclosure Certificate, the Issuer may amend this Disclosure Certificate, and any provision of this
+Disclosure Certificate may be waived, if such amendment or waiver is supported by an opinion of
+counsel expert in federal securities laws, to the effect that such amendment or waiver would not,
+in and of itself, cause the undertakings herein to violate the Rule if such amendment or waiver had
+been effective on the date hereof but taking into account any subsequent change in or official
+interpretation of the Rule.
+
+        SECTION 9. Additional Information. Nothing in this Disclosure Certificate shall be
+deemed to prevent the Issuer from disseminating any other information, using the means of
+dissemination set forth in this Disclosure Certificate or any other means of communication, or
+including any other information in any Annual Report or notice of occurrence of a Listed Event,
+in addition to that which is required by this Disclosure Certificate. If the Issuer chooses to include
+any information in any Annual Report or notice of occurrence of a Listed Event in addition to that
+which is specifically required by this Disclosure Certificate, the Issuer shall have no obligation
+under this Disclosure Certificate to update such information or include it in any future Annual
+Report or notice of occurrence of a Listed Event.
+
+        SECTION 10. Default. In the event of a failure of the Issuer to comply with any provision
+of this Disclosure Certificate any bondholder, including beneficial owners, may take such actions
+as may be necessary and appropriate, including seeking mandate or specific performance by court
+order, to cause the Issuer to comply with its obligations under this Disclosure Certificate. A default
+under this Disclosure Certificate shall not be deemed an event of default under the Resolution, and
+
+
+                                                A-4
+
+the sole remedy under this Disclosure Certificate in the event of any failure of the Issuer to comply
+with this Disclosure Certificate shall be an action to compel performance.
+
+        SECTION 11. Duties, Immunities and Liabilities of Dissemination Agent. The
+Dissemination Agent shall have only such duties as are specifically set forth in this Disclosure
+Certificate, and the Issuer agrees to indemnify and save the Dissemination Agent, its officers,
+directors, employees and agents, harmless against any loss, expense and liabilities which it may
+incur arising out of or in the exercise or performance of its powers and duties hereunder, including
+the costs and expenses (including attorney’s fees) of defending against any claim of liability, but
+excluding liabilities due to the Dissemination Agent’s negligence or willful misconduct. The
+obligations of the Issuer under this Section shall survive resignation or removal of the
+Dissemination Agent and payment of the Bonds.
+
+        SECTION 12. Duty To Update EMMA/MSRB. The Issuer shall determine, in the
+manner it deems appropriate, whether there has occurred a change in the MSRB’s e-mail address
+or filing procedures and requirements under EMMA each time it is required to file information
+with the MSRB.
+
+        SECTION 13. Beneficiaries. This Disclosure Certificate shall inure solely to the benefit
+of the Issuer, the Dissemination Agent, the Participating Underwriter and Bondholders, including
+beneficial owners, from time to time of the Bonds, and shall create no rights in any other person
+or entity.
+
+        SECTION 14. Assignment. The Issuer shall not transfer its obligations under this
+Disclosure Certificate unless the transferee agrees to assume all obligations of the Issuer hereunder
+or to execute a continuing disclosure undertaking under the Rule.
+
+         SECTION 15. Recordkeeping. The Issuer shall maintain records of all Annual Report
+filings and Listed Events filings, including the content of such disclosure, the names of the entities
+with whom such disclosure was filed and the date of filing such disclosure.
+
+       SECTION 16. Issuer Contact. The Issuer designates as the person from whom its Annual
+Report and Listed Events disclosure can be obtained: Superintendent of Schools, Lindsay Public
+Schools, 800 West Creek Street, Lindsay, Oklahoma 73052 (405) 756-3131.
+
+       Dated this 11th day of July, 2019.
+
+                                                  Independent School District No. 9 of Garvin
+                                                  County, Oklahoma
+
+
+
+                                                  By: ____________________________________
+                                                      President, Board of Education
+
+
+
+
+                                                A-5
+
+                                        EXHIBIT A
+
+                    NOTICE OF FAILURE TO FILE ANNUAL REPORT
+
+
+Name of Issuer:             Independent School District No. 9 of Garvin County, Oklahoma
+
+Name of Bond Issue:         $1,580,000 General Obligation Combined Purpose Bonds of 2019
+
+Date of Issuance:           ____________________________________
+
+NOTICE IS HEREBY GIVEN that the Issuer has not provided an Annual Report with respect to
+the above-named Bonds as required by Section 3 of the Continuing Disclosure Certificate dated
+the 16th day of May, 2019. The Issuer anticipates that the Annual Report will be filed by .
+
+Dated: _______________________
+
+
+                                              Independent School District No. 9 of Garvin
+                                              County, Oklahoma
+
+
+                                              By: ____________________________________
+                                                  President, Board of Education
+
+
+
+
+                                            A-6
+
+                                                                        Exhibit "A"
+
+
+
+
+                                                     INDEPENDENT SCHOOL DISTRICT NO. 1-9, GARVIN COUNTY
+                                                 COMBINED STATEMENT OF ASSETS, LIABILITIES AND FUND BALANCE-
+                                                   ALL FUND TYPES AND ACCOUNT GROUPS- REGULATORY BASIS
+                                                                        JUNE 30, 2018
+
+                                                                                                      FIDUCIARY      ACCOUNT
+                                                          GOVERNMENTAL FUND TYPES                    FUND TYPES       GROUP
+                                                                                                     EXPENDABLE      GENERAL           TOTALS
+                                                           SPECIAL        DEBT          CAPITAL      TRUSTS AND     LONG-TERM       (MEMORANDUM
+                                             GENERAL       REVENUE       SERVICE       PROJECTS     AGENCY FUNDS       DEBT             ONLY)
+                ASSETS
+
+Cash                                     $    1,548,308       348,974     1,340,661       263,177         174,638                         3,675,758
+Investments                                   1,600,000       430,000                     250,000                                         2,280,000
+Amounts available in debt service                                                                                      1,340,661          1,340,661
+Amount to be provided for retirement
+   of long-term debt                                                                                                   2,957,564          2,957,564
+
+Total Assets                             $    3,148,308       778,974     1,340,661       513,177         174,638      4,298,225         10,253,983
+
+
+  LIABILITIES AND FUND BALANCE
+
+Liabilities
+   Warrants payable                      $     583,534         12,188                                                                      595,722
+   Encumbrances                                353,157         58,656                      74,833                                          486,646
+   Funds held for school organizations                                                                    174,638                          174,638
+   Long-term debt:
+    Capital leases                                                                                                       113,225            113,225
+    Bonds payable                                                                                                      4,185,000          4,185,000
+        Total liabilities                      936,691         70,844              0       74,833         174,638      4,298,225          5,555,231
+
+Fund Balance
+  Restricted                                                  708,130     1,340,661       438,344                                         2,487,135
+  Unassigned                                  2,211,617                                                                                   2,211,617
+    Fund balance                              2,211,617       708,130     1,340,661       438,344              0                0         4,698,752
+
+Total Liabilities and Fund Balance       $    3,148,308       778,974     1,340,661       513,177         174,638      4,298,225         10,253,983
+
+                                         INDEPENDENT SCHOOL DISTRICT NO. 1-9, GARVIN COUNTY
+                   COMBINED STATEMENT OF REVENUES COLLECTED, EXPENDITURES AND CHANGES IN CASH FUND BALANCES
+                             - ALL GOVERNMENTAL FUND TYPES AND EXPENDABLE TRUSTS - REGULATORY BASIS
+                                                 FOR THE YEAR ENDED JUNE 30, 2018
+
+
+
+
+                                                                                                        FIDUCIARY
+                                                           GOVERNMENTAL FUND TYPES                     FUND TYPES
+                                                                                                       EXPENDABLE        TOTALS
+                                                            SPECIAL        DEBT          CAPITAL          TRUST       (MEMORANDUM
+                                             GENERAL        REVENUE       SERVICE       PROJECTS          FUNDS           ONLY)
+Revenues Collected
+  Local sources                             $ 3,136,172        474,796     1,514,630         11,100                       5,136,698
+  Intermediate sources                           276,767        59,667                                                      336,434
+  State sources                                3,909,681       315,987                                                    4,225,668
+  Federal sources                                593,685                                                                    593,685
+  Interest earnings                               14,649         5,223         1,784                                         21,656
+  Non-revenue receipts                               168        91,117         1,172                                         92,457
+     Total revenues collected                  7,931,122       946,790     1,517,586         11,100              0       10,406,598
+
+Expenditures
+  Instruction                                  5,384,871        27,259                                                    5,412,130
+  Support services                             2,268,230       260,240                        1,094          1,521        2,531,085
+  Operation of non-instructional services         12,343       414,675                                                      427,018
+  Facilities acquisition and cons!. svcs.          3,000       254,477                    3,698,841                       3,956,318
+  other outlays
+     Debt service requirements                                              771,201                                         771,201
+     Reimbursement                                   600                                                                        600
+          Total expenditures                   7,669,044       956,651      771,201       3,699,935          1,521       13,098,352
+
+Excess of revenues collected over (under)
+  expenditures before adjustment to prior
+  year encumbrances                             262,078         (9,861)     746,385      (3,688,835)        (1,521)      (2,691,754)
+
+Other financing sources (uses):
+ Bond proceeds                                                                            2,695,000                      2,695,000
+ Adjustments to prior year encumbrances           3,880           447                                                        4,327
+   Total other financing sources (uses)           3,880           447               0     2,695,000              0       2,699,327
+
+Excess of revenues collected over
+  (under) expenditures                          265,958         (9,414)     746,385        (993,835)        (1,521)          7,573
+
+Cash fund balances, beginning of year          1,945,659       717,544      594,276       1,432,179          1,521       4,691,179
+
+Cash fund balances, end of year             $ 2,211,617        708,130     1,340,661       438,344               0        4,698,752
+
+                        INDEPENDENT SCHOOL DISTRICT NO. 1-9, GARVIN COUNTY
+                  COMBINED STATEMENT OF REVENUES COLLECTED, EXPENDITURES AND
+      CHANGES IN CASH FUND BALANCES- BUDGETED GOVERNMENTAL FUND TYPES - REGULATORY BASIS
+                                FOR THE YEAR ENDED JUNE 30, 2018
+
+
+
+
+                                                                           GENERAL FUND
+                                                                                                 Variance
+                                                      Original/Final                            Favorable
+                                                         Budget               Actual           (Unfavorable)
+Revenues Collected
+ Local sources                                    $          2,736,921           3,136,172             399,251
+ Intermediate sources                                          245,481             276,767              31,286
+ State sources                                               3,752,744           3,909,681             156,937
+ Federal sources                                                                   593,685             593,685
+ Interest earnings                                                                  14,649              14,649
+ Non-revenue receipts                                                                  168                 168
+    Total revenues collected                                 6,735,146           7,931,122           1,195,976
+
+Expenditures
+ Instruction                                                 5,873,185           5,384,871             488,314
+ Support services                                            2,760,500           2,268,230             492,270
+ Operation of non-instruction services                           1,000              12,343              (11,343)
+ Facilities acquisition & construction services                 10,000               3,000                7,000
+ Other outlays
+  Reimbursement                                                 40,000                 600              39,400
+    Total expenditures                                       8,684,685           7,669,044           1,015,641
+
+Excess of revenues collected
+ over (under) expenditures before
+ adjustments to prior year encumbrances                     (1,949,539)           262,078            2,211,617
+
+Adjustments to prior year encumbrances                           3,880                 3,880                   0
+
+Excess of revenue collected over (under)
+ expenditures                                               (1,945,659)           265,958            2,211,617
+
+Cash fund balance, beginning of year                         1,945,659           1,945,659                     0
+
+Cash fund balance, end of year                    $                    0         2,211,617           2,211,617
+
+                                   INDEPENDENT SCHOOL DISTRICT NO. 1-9, GARVIN COUNTY
+                             COMBINED STATEMENT OF REVENUES COLLECTED, EXPENDITURES AND
+                 CHANGES IN CASH FUND BALANCES- BUDGETED GOVERNMENTAL FUND TYPES- REGULATORY BASIS
+                                           FOR THE YEAR ENDED JUNE 30, 2018
+
+
+
+
+                                                                     SPECIAL REVENUE FUNDS
+                                                                                                       Variance
+                                                      Original        Final                           Favorable
+                                                      Budget         Budget          Actual          (Unfavorable}
+Revenues Collected:
+ Local sources                                    $       454,536       454,536         474,796              20,260
+ State sources                                             55,275        55,275          59,667               4,392
+ Federal sources                                          260,729       282,942         315,987              33,045
+ Interest earnings                                                                        5,223               5,223
+ Non-revenue receipts                                                                    91,117              91,117
+    Total revenues collected                              770,540       792,753         946,790             154,037
+
+Expenditures:
+ Instruction                                                27,917       27,917          27,259                 658
+ Support services                                                                       260,240            (260,240)
+ Operation of non-instructional services                  396,042       418,255         414,675               3,580
+ Facilities acquisition & construction services                                         254,477            (254,477)
+ Un budgeted                                            1,064,125     1,064,125                           1,064,125
+   Total expenditures                                   1,488,084     1,510,297         956,651             553,646
+
+Excess of revenues collected
+ over (under) expenditures before
+ adjustments to prior year encumbrances                  (717,544}     (717,544)          (9,861)          707,683
+
+Adjustments to prior year encumbrances                           0            0               447               447
+
+Excess of revenues collected over
+ (under) expenditures                                    (717,544)     (717,544}          (9,414)          708,130
+
+Cash fund balances, beginning of year                     717,544       717,544         717,544                      0
+
+Cash fund balances, end of year                   $              0            0         708,130            708,130
+
+                               INDEPENDENT SCHOOL DISTRICT NO. 1-9, GARVIN COUNTY
+                 COMBINED STATEMENT OF REVENUES COLLECTED, EXPENDITURES AND
+     CHANGES IN CASH FUND BALANCES- BUDGETED GOVERNMENTAL FUND TYPES - REGULATORY BASIS
+                               FOR THE YEAR ENDED JUNE 30, 2018
+
+
+
+
+                                                                     DEBT SERVICE FUND
+                                                                                            Variance
+                                                  Original/ Final                           Favorable
+                                                     Budget                Actual         (Unfavorable)
+Revenues Collected
+ Local sources                                $          1,489,013            1,514,630            25,617
+ Interest earnings                                                                1,784             1,784
+ Non revenue receipt                                                              1,172             1,172
+    Total revenues collected                             1,489,013            1,517,586            28,573
+
+Requirements
+  Bonds                                                  1,400,000             755,000            645,000
+  Coupons                                                   16,700              16,201                499
+   Total requirements                                    1,416,700             771,201            645,499
+
+Excess of revenue collected over (under)
+ expenditures                                               72,313             746,385            674,072
+
+Cash fund balance, beginning of year                       594,276             594,276                    0
+
+Cash fund balance, end of year                $            666,589            1,340,661           674,072
+
+                            INDEPENDENT SCHOOL DISTRICT NO. 1-9, GARVIN COUNTY
+                        COMBINING STATEMENT OF ASSETS, LIABILITIES AND FUND BALANCE -
+                               ALL SPECIAL REVENUE FUNDS - REGULA TORY BASIS
+                                                JUNE 30, 2018
+
+
+
+
+                                                                           CHILD
+                                         BUILDING         CO-OP          NUTRITION
+                                          FUND            FUND             FUND         TOTAL
+                ASSETS
+
+
+Cash                                 $      275,024           7,881           66,069      348,974
+Investments                                 400,000                           30,000      430,000
+
+Total Assets                         $      675,024           7,881           96,069      778,974
+
+
+
+
+ LIABILITIES AND FUND BALANCE
+
+
+Liabilities
+  Warrants payable                   $          572               681          10,935      12,188
+  Encumbrances                               51,105                             7,551      58,656
+    Total liabilities                        51,677               681          18,486      70,844
+
+Fund Balance
+  Restricted                                623,347           7,200           77,583      708,130
+
+Total Liabilities and Fund Balance   $      675,024           7,881           96,069      778,974
+
+                                INDEPENDENT SCHOOL DISTRICT NO. 1-9, GARVIN COUNTY
+                     COMBINING STATEMENT OF REVENUES COLLECTED, EXPENDITURES AND CHANGES
+                      IN CASH FUND BALANCES - ALL SPECIAL REVENUE FUNDS - REGULA TORY BASIS
+                                                  FOR THE YEAR ENDED JUNE 30, 2018
+
+
+
+
+                                                                                       CHILD
+                                                       BUILDING       CO-OP          NUTRITION
+                                                        FUND           FUND            FUND          TOTAL
+Revenues Collected
+ Local sources                                     $      468,274          6,432              90        474,796
+ State sources                                                            22,399          37,268         59,667
+ Federal sources                                                                         315,987        315,987
+ Interest earnings                                          4,870                            353          5,223
+ Non-revenue receipts                                                                     91,117         91,117
+   Total revenues collected                               473,144         28,831         444,815        946,790
+
+Expenditures
+ Instruction                                                              27,259                         27,259
+ Support services                                         260,240                                       260,240
+ Operation of non-instructional services                                                 414,675        414,675
+ Facilities acquisition & construction services           254,477                                       254,477
+    Total expenditures                                    514,717         27,259         414,675        956,651
+
+Excess of revenues collected
+ over (under) expenditures before
+ adjustments to prior year encumbrances                    (41,573)        1,572          30,140             (9,861)
+
+Other fi1_1ancing sources and uses
+Adjustments to prior year encumbrances                         300             0               147             447
+
+Excess of revenues collected over
+ (under) expenditures                                      (41,273)        1,572          30,287             (9,414)
+
+Cash fund balances, beginning of year                     664,620          5,628          47,296        717,544
+
+Cash fund balances, end of year                    $      623,347          7,200          77,583        708,130
+
+                                                                               INDEPENDENT SCHOOL DISTRICT NO. 1-9, GARVIN COUNTY
+                                                                    COMBINING STATEMENT OF REVENUES COLLECTED, EXPENDITURES AND CHANGES
+                                                                            IN CASH FUND BALANCES - BUDGET AND ACTUAL COM'ARISON
+                                                                                 All SPECIAL REVENUE FUNDS - REGULA TORY BASIS
+                                                                                        FOR THE YEAR ENDED JUNE 30, 2018
+
+
+
+
+                                                                    BUILDING FUND                                 CO-OP FUND                             CHILD NUTRITION FUND
+                                                      ORIGINAL           FINAL                     ORIGINAL          FINAL                    ORIGINAL           FINAL
+                                                      BUDGET           BUDGET        ACTUAL        BUDGET           BUDGET       ACTUAL       BUDGET            BUDGET        ACTUAL
+Revenues Collected
+ Local sources                                    $     399,505          399,505       468,274                                      6,432         55,031          55,031            90
+ State sources                                                                                         22,289          22,289      22,399         32,986          32,986        37,268
+ Federal sources                                                                                                                                 260,729         282,942       315,987
+ Interest ecrnings                                                                       4,870                                                                                     353
+  Non,evenue receipfs                                                                                                                                                           91,117
+    Total revenues collected                            399,505          399,505       473,144         22,289          22,289      28,831        346,746         370,959       444,815
+
+Expenditures
+  lnstn.Jction                                                                                         27,917          27,917       27,259
+ Support services                                                                      260,240
+ Operation of nofHnstructional services                                                                                                          396,042         418,255       414,675
+ Facilities acquisition & construction services                                        254,477
+ Unbudgeled                                            1,064,125        1,064,125
+    Total expenditures                                 1,064,125        1,064,125      514,717         27,917          27,917      27,259        396,042         418,255       414,675
+
+Excess of revenues collected over
+ {under) expenditures before adjustments
+  to prior year encumbrances                            (664,620)        (664,620)     (41,573)         (5,628)        (5,628)       1,572       (47,296)        (47,296)       30,140
+
+Adjustment to prior year encumbrances                                           0         300                                             0              0                         147
+
+Excess of revenues collected over
+ (under) expenditures                                   (664,620)        (664,620)     (41,273)         (5,628)        (5,628)      1,572        (47,296)        (47,296)       30,287
+
+Cash fund balances, beginning of year                   664,620          664,620       664,620          5,628           5,628       5,628         47,296          47,296        47,296
+
+Cash fund balances, end of yecr                                                        623,347                             0        7,200             0                0        77,583
+
