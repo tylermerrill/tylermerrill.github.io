@@ -1,0 +1,692 @@
+NOT A NEW ISSUE                                                                          RATINGS:
+REMARKETING – Book-Entry-Only                                                  Moody’s: Aa3/VMIG1
+                                                                                     S&P: AA/A-1+
+
+                               REMARKETING CIRCULAR
+                        SUPPLEMENTING THE OFFICIAL STATEMENT
+                                 Dated February 4, 2009
+                                       relating to
+
+                                         $44,290,000*
+                     Board of Governors of The University of North Carolina
+         University of North Carolina Hospitals at Chapel Hill Revenue Refunding Bonds
+                                         Series 2009A
+
+        This Remarketing Circular is intended to supplement the Official Statement, dated February 4,
+2009 (as supplemented, the “2009 Official Statement”) relating to the issuance by the Board of Governors
+of The University of North Carolina (the “Issuer”) of the above-referenced bonds (the “Series 2009A
+Bonds”). Capitalized terms used herein and not otherwise defined have the meaning given such terms in
+the 2009 Official Statement.
+
+       THE SERIES 2009A BONDS ARE LIMITED OBLIGATIONS OF THE ISSUER, AND
+THE ISSUER WILL NOT BE OBLIGATED TO PAY DEBT SERVICE ON THE SERIES 2009A
+BONDS EXCEPT FROM REVENUES AND OTHER FUNDS PLEDGED OR ASSIGNED
+THEREFOR UNDER THE TRUST INDENTURE. NEITHER THE FAITH AND CREDIT NOR
+THE TAXING POWER OF THE STATE OF NORTH CAROLINA OR OF ANY POLITICAL
+SUBDIVISION THEREOF IS PLEDGED AS SECURITY FOR THE SERIES 2009A BONDS.
+THE ISSUER HAS NO TAXING POWER. See "SECURITY AND SOURCES OF PAYMENT" in
+the 2009 Official Statement.
+
+        As described in the 2009 Official Statement, the payment of the purchase price of the Series
+2009A Bonds tendered or deemed tendered for purchase and not remarketed was originally supported by
+UNC Hospitals pursuant to and subject to the terms of a Liquidity Agreement, dated February 1, 2009
+(the “Self Liquidity Agreement”), between UNC Hospitals and U.S. Bank National Association, as trustee
+(the “Trustee”) and tender agent (the “Tender Agent”). On September 21, 2015 (the “Substitution Date”),
+the Self Liquidity Agreement will be replaced by a Standby Bond Purchase Agreement, dated as of the
+date of delivery thereof (the “Standby Agreement”), between UNC Hospitals and TD Bank, N.A. (the
+“Bank”). The Standby Agreement will expire on September 21, 2020, unless extended or earlier
+terminated pursuant to the terms of the Standby Agreement. The Standby Agreement constitutes a
+Substitute Liquidity Facility within the meaning of the Series Indenture.
+
+        All of the outstanding Series 2009A Bonds are subject to mandatory tender for purchase on the
+Substitution Date without the option to retain such Series 2009A Bonds. Upon such mandatory tender for
+purchase, the Series 2009A Bonds so tendered will be remarketed by TD Securities (USA) LLC, as
+successor Remarketing Agent. The Series 2001 Bonds currently bear interest at the Weekly Rate as
+provided in the Series Indenture. The Weekly Rate set by the Remarketing Agent on the Substitution
+Date will be effective from such date to and including September 23, 2015. See “THE SERIES 2009A
+BONDS” in the 2009 Official Statement.
+
+     UNDER CERTAIN CIRCUMSTANCES DESCRIBED HEREIN, THE OBLIGATION OF THE
+BANK TO PROVIDE FUNDS FOR THE PURCHASE OF THE SERIES 2009A BONDS MAY BE
+TERMINATED IMMEDIATELY WITHOUT NOTICE TO THE OWNERS. SEE “THE STANDBY
+
+__________
+* $29,505,000 of the Series 2009A Bonds are currently outstanding.
+
+AGREEMENT AND THE BANK – IMMEDIATE TERMINATION BY THE BANK” HEREIN. IN
+SUCH EVENT, FUNDS MAY NOT BE AVAILABLE TO PURCHASE THE SERIES 2009A BONDS
+THAT ARE TENDERED FOR OPTIONAL OR MANDATORY PURCHASE.
+
+        This Remarketing Circular has been prepared for use by the Remarketing Agent for the sole
+purpose of providing information relating to the matters set forth herein. This Remarketing Circular
+speaks only as of its date, and the information contained herein is subject to change.
+
+        Prospective purchasers of the Series 2009A Bonds should rely on this Remarketing Circular
+for information pertaining to the Standby Agreement and the Bank beginning on the Substitution
+Date. This Remarketing Circular is to be read in conjunction with the 2009 Official Statement.
+
+                                         TD SECURITIES
+                                       as Remarketing Agent
+
+                     The date of this Remarketing Circular is September 14, 2015.
+
+                           SUMMARY AND CONTACT INFORMATION
+
+Series 2009A Bonds CUSIP:               914714 BX7
+Series 2009A Bonds Dated:               February 12, 2009
+Settlement Date:                        February 12, 2009
+Final Maturity:                         February 1, 2024
+Federal Tax Status:                     Tax-Exempt; Non-AMT
+State Tax Exempt:                       Yes
+Mandatory Sinking Fund:                 Yes
+Interest Rate Modes:                    Daily, Weekly, Unit Pricing, Term, Fixed
+Current Interest Rate Mode:             Weekly
+Maximum Interest Rate:                  The lesser of 12% per annum and the maximum rate
+                                        permitted by law.
+Interest Rate Accrual Period:           Monthly
+Interest Payment Date:                  First Business Day of each month
+Optional Tender:                        Upon delivery of irrevocable written notice of tender or
+                                        irrevocable telephonic notice of tender to the
+                                        Remarketing Agent, promptly confirmed in writing to
+                                        the Tender Agent, by 4:00 P.M., New York City time,
+                                        on a Business Day at least 7 days prior to the Purchase
+                                        Date specified by the Owner in such notice
+Bank:                                   TD Bank, N.A.
+Standby Agreement Expiration Date:      September 21, 2020
+
+
+Remarketing Agent:                       Trustee/Tender Agent:
+
+TD Securities (USA) LLC                  U.S. Bank National Association
+Chris Dimon                              Allison Lancaster Poole/Corporate Trust Department
+Telephone: (212) 827-7172                Telephone: (704)335-4559
+Email: chris.dimon@tdsecurities.com      Email: allison.lancasterpoole@usbank.com
+
+         No dealer, broker, salesman or other person has been authorized to give any information or to
+make any representation in connection with this offering other than as contained in this Remarketing
+Circular and the 2009 Official Statement, and, if given or made, such other information or representation
+must not be relied upon. This Remarketing Circular and the 2009 Official Statement do not constitute an
+offer to sell or the solicitation of an offer to buy, nor shall there be any sale of the Series 2009A Bonds by
+any person, in any jurisdiction in which it is not lawful for such person to make such offer, solicitation or
+sale. The information set forth herein has been obtained from UNC Hospitals, the Bank and from other
+sources that are deemed to be reliable, but is not guaranteed as to accuracy or completeness by the
+Remarketing Agent, and is not to be construed as a representation by the Remarketing Agent.
+
+         The electronic distribution of this Remarketing Circular does not constitute an offer to sell or the
+solicitation of an offer to buy the Series 2009A Bonds described herein to the residents of any particular
+state and is not specifically directed to the residents of any particular state. The Series 2009A Bonds shall
+not be offered or sold in any state unless and until they are either registered pursuant to the laws of such
+state, or qualified pursuant to an appropriate exemption from registration in such state.
+
+       NEITHER THE SERIES 2009A BONDS NOR THE TRUST INDENTURE HAS BEEN REGISTERED OR
+QUALIFIED WITH THE SECURITIES AND EXCHANGE COMMISSION BY REASON OF THE PROVISIONS OF
+SECTION 3(a)(2) OF THE SECURITIES ACT OF 1933, AS AMENDED, AND SECTION 304(a)(4) OF THE TRUST
+INDENTURE ACT OF 1939, AS AMENDED. THE REGISTRATION OR QUALIFICATION OF THE SERIES 2009A
+BONDS AND THE TRUST INDENTURE IN ACCORDANCE WITH APPLICABLE PROVISIONS OF THE SECURITIES
+LAWS OF THE STATES IN WHICH THE SERIES 2009A BONDS AND THE TRUST INDENTURE HAVE BEEN
+REGISTERED OR QUALIFIED, IF ANY, AND THE EXEMPTION FROM REGISTRATION OR QUALIFICATION IN
+OTHER STATES, SHALL NOT BE REGARDED AS A RECOMMENDATION THEREOF.
+
+       IN MAKING AN INVESTMENT DECISION INVESTORS MUST RELY ON THEIR OWN EXAMINATION OF
+THE TERMS OF THE OFFERING, INCLUDING THE MERITS AND RISKS INVOLVED. THE SERIES 2009A BONDS
+HAVE NOT BEEN RECOMMENDED BY ANY FEDERAL OR STATE SECURITIES COMMISSION OR REGULATORY
+AUTHORITY. FURTHERMORE, THE FOREGOING AUTHORITIES HAVE NOT CONFIRMED THE ACCURACY OR
+DETERMINED THE ADEQUACY OF THIS REMARKETING CIRCULAR. ANY REPRESENTATION TO THE
+CONTRARY IS A CRIMINAL OFFENSE.
+
+        All quotations from and summaries and explanations of laws and documents herein do not
+purport to be complete, and reference is made to such laws and documents for full and complete
+statements of their provisions. Any statements made in this Remarketing Circular involving estimates or
+matters of opinion, whether or not expressly so stated, are intended merely as estimates or opinions and
+not as representations of fact. The information and expressions of opinion herein are subject to change
+without notice, and neither the delivery of this Remarketing Circular nor any sale of the Series 2009A
+Bonds shall under any circumstances create any implication that there has been no change in the affairs of
+UNC Hospitals or the Bank since the date hereof.
+
+         References to website addresses presented herein are for informational purposes only and may be
+in the form of a hyperlink solely for the reader’s convenience. Unless specified otherwise, such websites
+and the information or links contained therein are not incorporated into, and are not part of, this
+Remarketing Circular.
+
+        The Remarketing Agent has provided the following sentence for inclusion in this Remarketing
+Circular. The Remarketing Agent has reviewed the information in this Remarketing Circular in
+accordance with, and as a part of, its responsibilities to investors under the federal securities laws as
+applied to the facts and circumstances of this transaction, but the Remarketing Agent does not guarantee
+the accuracy or completeness of such information.
+
+                                                           TABLE OF CONTENTS
+
+                                                                                                                                                        Page
+
+INTRODUCTION ........................................................................................................................................ 1
+THE STANDBY AGREEMENT AND THE BANK................................................................................... 1
+   General ................................................................................................................................................... 1
+   Immediate Termination by the Bank...................................................................................................... 2
+   Termination by the Bank Resulting in Mandatory Tender..................................................................... 3
+   Substitute Liquidity Facility ................................................................................................................... 4
+   The Bank ................................................................................................................................................ 5
+REMARKETING OF SERIES 2009A BONDS........................................................................................... 6
+CONTINUING USE OF 2009 OFFICIAL STATEMENT .......................................................................... 6
+RATINGS ..................................................................................................................................................... 6
+MISCELLANEOUS ..................................................................................................................................... 7
+
+APPENDIX A – SUMMARY OF THE STANDBY AGREEMENT ...................................................... A-1
+
+                               REMARKETING CIRCULAR
+                        SUPPLEMENTING THE OFFICIAL STATEMENT
+                                 Dated February 4, 2009
+                                       relating to
+
+                                          $44,290,000*
+                     Board of Governors of The University of North Carolina
+  University of North Carolina Hospitals at Chapel Hill Revenue Refunding Bonds, Series 2009A
+
+
+                                          INTRODUCTION
+
+        This Remarketing Circular provides certain information regarding the $44,290,000* Board of
+Governors of The University of North Carolina University of North Carolina Hospitals at Chapel Hill
+Revenue Bonds, Series 2009A (the “Series 2009A Bonds”) to supplement the information set forth in the
+Official Statement, dated February 4, 2009 (the “Official Statement”), prepared and distributed in
+connection with the issuance of the Series 2009A Bonds. The Series 2009A Bonds were issued pursuant
+to the General Trust Indenture, dated as of January 1, 1992 (as supplemented and amended, the “General
+Indenture”), between the Board of Governors of the University of North Carolina (the “Issuer”) and First
+Union National Bank (succeeded by U.S. Bank National Association), as trustee (the “Trustee”), and a
+Series Indenture Number 7, dated as of February 1, 2009 (the “Series Indenture”), between the Issuer and
+the Trustee, both as accepted and agreed to by the University of North Carolina Hospitals at Chapel Hill
+(“UNC Hospitals”).
+
+         The purpose of this Remarketing Circular is to (a) provide certain information relating to the
+execution and delivery of the Standby Bond Purchase Agreement, dated as of the date of delivery thereof
+(the “Standby Agreement”), between UNC Hospitals and TD Bank, N.A. (the “Bank”), to provide
+liquidity support for the Series 2009A Bonds, (b) provide certain information relating to the Bank, (c)
+provide certain information relating to the mandatory tender for purchase and remarketing of the Series
+2009A Bonds and (d) provide certain other information relating to UNC Hospitals and the Series 2009A
+Bonds. The Standby Agreement constitutes a Substitute Liquidity Facility within the meaning of the
+Series Indenture.
+
+
+                         THE STANDBY AGREEMENT AND THE BANK
+
+        The following is a summary of certain provisions of the Standby Agreement, as in effect on the
+date of the execution and delivery thereof. The Standby Agreement for the Series 2009A Bonds is only
+available to support the Series 2009A Bonds during the Daily Mode or Weekly Mode. This summary is
+not a complete recital of the terms of the Standby Agreement, and reference is made to Appendix A hereto
+and the definitive Standby Agreement in its entirety for the definitive terms thereof. The Standby
+Agreement may be amended or otherwise modified without notice to, or consent by, the Owners.
+
+      The following information replaces in its entirety the information set forth under the caption
+“THE LIQUIDITY AGREEMENT” in the 2009 Official Statement:
+
+General
+
+        As described under “THE SERIES 2009A BONDS – Tender Provisions” in the 2009 Official
+Statement, under certain circumstances, the Owners of the Series 2009A Bonds may elect or be required
+to tender their Series 2009A Bonds for purchase. On September 21, 2015 (the “Substitution Date”), UNC
+
+
+__________
+* $29,505,000 of the Series 2009A Bonds are currently outstanding.
+
+Hospitals will enter into the Standby Agreement with the Bank. Pursuant to the Standby Agreement, the
+Bank will agree, subject to the terms and conditions stated therein, to purchase Series 2009A Bonds in the
+Daily Mode or Weekly Mode from time to time on any Purchase Date or Mandatory Purchase Date in the
+event that remarketing proceeds are not sufficient for such purpose. The Standby Agreement will
+continue in effect, subject to extension and earlier termination as set forth therein, until September 21,
+2020. See “SUMMARY OF THE STANDBY AGREEMENT – Terms of Commitment” in Appendix A
+hereto.
+
+         The Standby Agreement will provide funds only for the payment of the purchase price of Series
+2009A Bonds tendered or deemed tendered for purchase as described above. The Standby Agreement
+will be subject to termination at the option of the Bank as described below.
+
+         See Appendix A hereto for a summary of certain terms and provisions of the Standby Agreement
+
+Immediate Termination by the Bank
+
+        The Bank’s obligation to purchase the Series 2009A Bonds will terminate immediately, without
+the requirement of notice, upon the occurrence of any of the following “Special Events of Default” under
+the Standby Agreement:
+
+        (a) UNC Hospitals shall not pay when due any principal of, or interest on, any Series 2009A
+Bond or Bank Bond (so long as such Event of Default did not result solely from the exercise by the Bank
+of an acceleration right (if any) with respect to Bank Bonds (as defined in the Standby Agreement)); or
+
+         (b) UNC Hospitals shall fail to pay principal on any obligation evidenced by bonds, debentures,
+notes or other similar instruments or any obligations under capital leases that are senior to or on a parity
+with the Series 2009A Bonds (whether by scheduled maturity, required prepayment or acceleration), or
+any interest or premium thereon (but not including a failure to pay accelerated principal of Bank Bonds
+hereunder and the failure to pay accelerated principal of debt that has been purchased pursuant to a
+liquidity facility by a financial institution serving as a liquidity provider (“Liquidity Provider Debt”)), and
+such failure shall continue beyond any applicable period of grace specified in any underlying resolution,
+indenture, contract or instrument providing for the creation of or concerning such obligations of UNC
+Hospitals senior to or on a parity with the Series 2009A Bonds, or pursuant to the provisions of any such
+resolution, indenture, contract or instrument, the maturity of any such obligations of UNC Hospitals
+senior to or on a parity with the Series 2009A Bonds, as a result of a payment default of any nature
+thereon (but not including a payment default relating to accelerated principal of Bank Bonds hereunder or
+Liquidity Provider Debt), shall have been or may be accelerated or may be required to be prepaid prior to
+the stated maturity thereof; or
+
+         (c) UNC Hospitals shall (i) commence a voluntary case under the Federal bankruptcy laws (as
+now or hereafter in effect), (ii) file a petition seeking to take advantage of any other laws, domestic or
+foreign, relating to bankruptcy, insolvency, reorganization, debt adjustment, winding up or composition
+or adjustment of debts, (iii) consent to or fail to contest in a timely and appropriate manner any petition
+filed against it in an involuntary case under such bankruptcy laws or other laws, (iv) apply for or consent
+to, or fail to contest in a timely and appropriate manner, the appointment of, or the taking of possession
+by, a receiver, custodian, trustee or liquidator of itself or of a substantial part of its property, (v) admit in
+writing its inability to pay its debts as they become due, (vi) make a general assignment for the benefit of
+creditors, or (vii) take any official action for the purpose of effecting any of the foregoing; or
+
+        (d) UNC Hospitals shall in writing (i) claim that any provision that provides for the payment of
+principal of or interest on the Series 2009A Bonds is not valid or binding on it, (ii) repudiate its
+
+
+                                                       2
+
+obligations under the Standby Agreement or any of the provisions that provide for the payment of
+principal of or interest on the Series 2009A Bonds or (iii) initiate any legal proceedings to seek an
+adjudication that the Standby Agreement or any of the provisions that provide for the payment of
+principal of or interest on the Series 2009A Bonds is not valid or binding on UNC Hospitals; or
+
+        (e) The long-term rating by Moody’s and S&P of the Series 2009A Bonds or any other parity
+Debt (as defined in the Standby Agreement) of UNC Hospitals not supported by credit enhancement shall
+be withdrawn or suspended for credit-related reasons or reduced below “Baa3” by Moody’s and “BBB-”
+by S&P.
+
+        In the event of such termination, the Bank will not be obligated to purchase the Series 2009A
+Bonds on any Purchase Date or Mandatory Purchase Date, and under the Series Indenture, funds to
+purchase the Series 2009A Bonds will be available only from the proceeds of the remarketing of the
+Series 2009A Bonds (which remarketing proceeds will not be available unless UNC Hospitals obtains a
+Substitute Liquidity Facility or the Series 2009A Bonds are converted to a Fixed Rate) or from other
+funds made available by the Issuer or UNC Hospitals.
+
+Termination by the Bank Resulting in Mandatory Tender
+
+        The Bank’s obligation to purchase the Series 2009A Bonds is subject to termination by the Bank
+upon 30 days’ notice to the Issuer, UNC Hospitals, the Tender Agent, the Trustee and the Remarketing
+Agent in the case of any of the following Events of Default under each of the Standby Agreement:
+
+        (a) UNC Hospitals shall not pay when due any amount owed to the Bank under certain provisions
+of the Standby Agreement relating to payments with respect to Bank Bonds (other than those referred to
+in paragraph (a) above under the caption “Immediate Termination by the Bank” above) and “yield
+equivalency” payments; or
+
+        (b) UNC Hospitals shall fail to pay within 10 days after the same shall become due any amount
+owing under the Standby Agreement (other than as set forth in the preceding paragraph (a) or in
+paragraph (a) under the caption “Immediate Termination by the Bank” above); or
+
+       (c) any material representation or warranty made by or on behalf of UNC Hospitals in the
+Standby Agreement or in any certificate or statement delivered hereunder shall be incorrect or untrue in
+any material respect when made or deemed to have been made; or
+
+         (d) UNC Hospitals shall default in the due performance or observance of any of the covenants set
+forth in the Standby Agreement relating to (i) security of Bank Bonds under the Indenture (as defined in
+the Standby Agreement) on a pari passu basis with all other Bonds issued under the Indenture (ii)
+compliance with the covenants under the Related Documents (as defined in the Standby Agreement), (iii)
+certain reporting requirements and inspection rights specified in the Standby Agreement (iv) conversions
+of the Series 2009A Bonds to the Unit Pricing Mode or the Term Rate Mode, (v) providing certain notices
+required in the Standby Agreement (vi) the inclusion of certain information regarding the Bank in offering
+documents relating to the Series 2009A Bonds, (vi) Substitute Liquidity Facilities, (vii) the appointment
+of a successor Trustee, Tender Agent or Remarketing Agent, (viii) UNC Hospitals’ obligation to take all
+actions reasonably requested by the Bank to enforce the material obligations under the Related
+Documents of each of the parties thereto, (ix) compliance with the Long-Term Debt Service Coverage
+Ratio, (x) permitted liens, and (xi) limitations on Indebtedness (as defined in the General Indenture) (in
+the case of clause (ii) above, only after giving effect to the applicable cure period under the applicable
+Related Document); or
+
+
+
+
+                                                    3
+
+         (e) UNC Hospitals shall default in the due performance or observance of any other term, covenant
+or agreement contained or incorporated by reference in the Standby Agreement (other than those referred
+to in the preceding paragraphs (a) through (d) and in paragraph (a) above under the caption “Immediate
+Termination by the Bank” above) and such default shall remain unremedied for a period of 30 days after
+the Bank shall have given written notice thereof to UNC Hospitals; or
+
+         (f) UNC Hospitals shall fail to pay when due and payable (whether by scheduled maturity,
+required prepayment, acceleration, demand or otherwise) any Debt of UNC Hospitals aggregating in
+excess of $10,000,000, other than that referred to in paragraph (b) under the caption “Immediate
+Termination by the Bank” above, and such failure shall continue beyond any applicable period of grace
+specified in any underlying resolution, indenture, contract or instrument providing for the creation or
+concerning such Debt, or any other default under any resolution, indenture, contract or instrument
+providing for the creation of or concerning such Debt, or any other event, shall occur and shall continue
+after the applicable grace period, if any, specified in such resolution, indenture, contract or instrument, if
+the effect of such default or event is to accelerate, or to permit the acceleration of, the maturity of such
+Debt; or pursuant to the provisions of any such resolution, indenture, contract or instrument the maturity
+of any Debt, other than that referred to in paragraph (b) under the caption “Immediate Termination by the
+Bank” above, shall have been or may be accelerated or shall have been or may be required to be prepaid
+prior to the stated maturity thereof; or
+
+        (g) any Indenture Event of Default (as defined in the Standby Agreement) or any “event of
+default” which is not cured within any applicable cure period under any of the other Related Documents
+shall occur; or
+
+        (h) (i) the long-term rating of the Series 2009A Bonds or any parity Debt of UNC Hospitals not
+supported by credit enhancement shall be reduced below “A3” by Moody’s or “A-“ by S&P or (ii) the
+long-term rating of the Series 2009A Bonds are withdrawn or suspended by Moody’s or S&P for any
+reason for more than five Business Days; or
+
+         (i) a final, nonappealable judgment or order for the payment of money in excess of $10,000,000
+in the aggregate that ranks senior to or on a parity with the Series 2009A Bonds shall be rendered against
+UNC Hospitals with respect to which, in the opinion of the Bank, adequate cash reserves have not been
+established, and such judgment or order shall continue unsatisfied and unstayed for a period of thirty (30)
+days.
+
+        In the event of such termination, under the Series Indenture, the Series 2009A Bonds are subject
+to mandatory tender for purchase prior to the termination of the applicable Standby Agreement. See
+“THE SERIES 2009A BONDS - Tender Provisions - Mandatory Purchase Upon Substitution, Expiration
+or Termination of Liquidity Facility” in the 2009 Official Statement.
+
+Substitute Liquidity Facility
+
+        Subject to the conditions set forth in the Series Indenture, UNC Hospitals may provide for a
+Substitute Liquidity Facility for the Liquidity Facility then in effect. See “DEFINITION OF CERTAIN
+TERMS AND SUMMARY OF PRINCIPAL LEGAL DOCUMENTS – Liquidity Facility” in Appendix
+C to the 2009 Official Statement.
+
+
+
+
+                                                      4
+
+The Bank
+
+        TD Bank, N.A. (the "Bank") is a national banking association organized under the laws of the
+United States, with its main office located in Wilmington, Delaware. The Bank is an indirect, wholly-
+owned subsidiary of The Toronto-Dominion Bank ("TD") and offers a full range of banking services and
+products to individuals, businesses and governments throughout its market areas, including commercial,
+consumer and trust services and indirect automobile dealer financing. The Bank operates banking offices
+in Connecticut, Delaware, the District of Columbia, Florida, Maine, Maryland, Massachusetts, New
+Hampshire, New Jersey, North Carolina, New York, Pennsylvania, Rhode Island, South Carolina,
+Vermont and Virginia. As of March 31, 2015, the Bank had consolidated assets of $234.4 billion,
+consolidated deposits of $194.8 billion and stockholder's equity of $32.2 billion, based on regulatory
+accounting principles.
+
+          Additional information regarding the foregoing, and the Bank and TD, is available from the
+filings made by TD with the U.S. Securities and Exchange Commission (the “SEC”), which filings can be
+inspected and copied at the public reference facilities maintained by the SEC at 100 F Street, N.E.,
+Washington, D.C. 20549, at prescribed rates. In addition, the SEC maintains a website at
+http://www.sec.gov, which contains reports, proxy statements and other information regarding registrants
+that file such information electronically with the SEC.
+
+         The information concerning TD and the Bank contained herein is furnished solely to provide
+limited introductory information and does not purport to be comprehensive. Such information is qualified
+in its entirety by the detailed information appearing in the documents and financial statements referenced
+herein.
+
+          The Standby Agreement has been entered into by the Bank and is the obligation of the Bank and
+not TD.
+
+        The Bank will provide copies of the publicly available portions of the most recent quarterly Call
+Report of the Bank delivered to the Comptroller of the Currency, without charge, to each person to whom
+this document is delivered, on the written request of such person. Written requests should be directed to:
+
+                                    TD Bank, N.A.
+                                    1701 Route 70 East
+                                    Cherry Hill, New Jersey 08034
+                                    Attention: Corporate and Public Affairs
+
+         Information regarding the financial condition and results of operations of the Bank is contained in
+the quarterly Call Reports of the Bank delivered to the Comptroller of the Currency and available online
+at https://cdr.ffiec.gov/public. General information regarding the Bank may be found in periodic filings
+made by TD with the SEC. TD is a foreign issuer that is permitted, under a multijurisdictional disclosure
+system adopted by the United States, to prepare certain filings with the SEC in accordance with the
+disclosure requirements of Canada, its home country. Canadian disclosure requirements are different
+from those of the United States. TD’s financial statements are prepared in accordance with International
+Financial Reporting Standards, and may be subject to Canadian auditing and auditor independence
+standards, and thus may not be comparable to financial statements of United States companies prepared in
+accordance with United States generally accepted accounting principles.
+
+       The delivery hereof shall not create any implication that there has been no change in the affairs of
+TD or the Bank since the date hereof, or that the information contained or referred to in this subheading
+“The Bank” is correct as of any time subsequent to its date.
+
+
+                                                     5
+
+     NEITHER TD NOR ANY OTHER SUBSIDIARY OF TD OTHER THAN THE BANK IS
+OBLIGATED TO MAKE PAYMENTS UNDER THE STANDBY AGREEMENT.
+
+        The Bank is responsible only for the information contained under this subheading of this
+Remarketing Circular and did not participate in the preparation of, or in any way verify the information
+contained in, any other part of this Remarketing Circular. Accordingly, the Bank assumes no
+responsibility for and makes no representation or warranty as to the accuracy or completeness of
+information contained in any other part of this Remarketing Circular.
+
+
+                           REMARKETING OF SERIES 2009A BONDS
+
+       TD Securities (USA) LLC will serve as the successor Remarketing Agent for the Series 2009A
+Bonds effective as of the Substitution Date.
+
+
+                      CONTINUING USE OF 2009 OFFICIAL STATEMENT
+
+         The provisions of this Remarketing Circular should be read in connection with the 2009 Official
+Statement. Except as otherwise described herein, the provisions of the 2009 Official Statement remain in
+full force and effect.
+
+         The Series 2009A Bonds are not subject to the continuing disclosure provisions of Rule 15c2-12
+adopted by the Securities and Exchange Commission under the Securities Exchange Act of 1934, as
+amended (the "Rule"). However, UNC Hospitals has agreed under the Series Indenture to provide certain
+annual and quarterly financial information and operating data and notice of certain material events
+relating to the Series 2009A Bonds as described in the 2009 Official Statement. Furthermore, UNC
+Hospitals has agreed under the Rule to provide certain annual financial information and designated event
+notices with respect to certain other outstanding revenue bonds issued by the Issuer on behalf of UNC
+Hospitals. UNC Hospitals has previously filed certain annual financial information through the fiscal
+year ended June 30, 2014 and certain unaudited quarterly financial information through June 30, 2015
+with the Municipal Securities Rulemaking Board (the “MSRB”) through its Electronic Municipal Market
+Access system at www.emma.msrb.org. Owners and potential purchasers of Series 2009A Bonds should
+refer to such information to obtain further information regarding UNC Hospitals and its finances that is
+more recent than the information set forth in the 2009 Official Statement.
+
+
+                                              RATINGS
+
+        Moody’s has assigned a long-term rating of “Aa3” to the Series 2009A Bonds, and S&P has
+assigned a long-term rating of “AA” to the Series 2009A Bonds. Based solely on the Standby Agreement
+provided by the Bank, Moody’s will assign a short-term rating of “VMIG1” to the Series 2009A Bonds,
+and S&P will assign a short-term rating of “A-1+” to the Series 2009A Bonds effective on the
+Substitution Date. Such ratings reflect only the view of Moody’s and S&P at the time the ratings are
+given, and neither the Issuer, UNC Hospitals nor the Remarketing Agent make any representations as to
+the appropriateness of such ratings. The ratings are not a recommendation to buy, sell or hold the Series
+2009A Bonds and should be evaluated independently. There is no assurance that such ratings will not be
+withdrawn or revised downward by Moody’s or S&P. Any such action may have an adverse effect on the
+market price of the Series 2009A Bonds.
+
+
+
+
+                                                   6
+
+                                           MISCELLANEOUS
+
+        Any statements in this Remarketing Circular involving matters of opinion, whether or not
+expressly so stated, are intended as such and not as representations of fact. The summaries or
+descriptions of provisions of the Standby Agreement and other legal instruments and all references to
+other materials not purporting to be quoted in full, are only brief outlines of certain provisions thereof and
+do not purport to summarize or describe all the provisions thereof. Reference is hereby made to such
+instruments, documents and other materials for the complete provisions thereof.
+
+
+
+
+                                                      7
+
+                                                                                              APPENDIX A
+
+                           SUMMARY OF THE STANDBY AGREEMENT
+
+        The following is a brief summary of certain provisions of the Standby Agreement. This summary
+does not purport to be complete and is qualified in its entirety by reference to the Standby Agreement.
+Capitalized terms used herein and not otherwise defined herein have the meanings given such terms in the
+2009 Official Statement, this Remarketing Circular or the Standby Agreement.
+
+        Pursuant to the Standby Agreement, the Bank agrees, subject to the terms and conditions stated in
+the Standby Agreement, to purchase Series 2009A Bonds (excluding Bank Bonds or any Series 2009A
+Bonds beneficially owned by UNC Hospitals or a Related Person of UNC Hospitals) from time to time on
+any Purchase Date or Mandatory Purchase Date in the event that remarketing proceeds are not sufficient
+for such purpose. The Standby Agreement provides for payment of the Purchase Price of the Series
+2009A Bonds and does not otherwise secure payment of the principal, premium, if any, or interest on the
+Series 2009A Bonds.
+
+         While the Bank owns any Series 2009A Bonds under the Standby Agreement, it will be entitled
+to all rights and remedies, as applicable, of an Owner of the Series 2009A Bonds under the General
+Indenture and the Series Indenture.
+
+       The Bank is not obligated to purchase Series 2009A Bonds pursuant to the Standby Agreement
+upon the occurrence of certain Events of Default as described under the caption “THE STANDBY
+AGREEMENT AND THE BANK – Immediate Termination by the Bank” in the forepart of this
+Remarketing Circular, and therefore, funds may not be available for the purchase of tendered Series
+2009A Bonds under such circumstances.
+
+        The Bank’s obligation to purchase Series 2009A Bonds under the Standby Agreement is not a
+deposit and is not insured by the Federal Deposit Insurance Corporation or any other governmental
+agency.
+
+Terms of Commitment
+
+         The Bank’s commitment to purchase Series 2009A Bonds under the Standby Agreement will
+begin on the Substitution Date and will continue until the earliest of the following: (i) the later of (a) 5:00
+p.m. New York time on September 21, 2020 or, if such day is not a Business Day, the Business Day next
+preceding such day and (b) 5:00 p.m. New York time on the last day of any extension of such date agreed
+to by the parties to the Standby Agreement in accordance with the related Letter Agreement or, if such
+day is not a Business Day, the Business Day next preceding such day (the “Scheduled Termination
+Date”); (ii) the date on which no Series 2009A Bonds are Outstanding, (iii) the close of business on the
+date on which the interest rate on all the Series 2009A Bonds is converted out of the Daily Mode or the
+Weekly Mode, unless the Series 2009A Bonds will bear interest at the Unit Pricing Mode or the Term
+Rate Mode and the Bank agrees to increase the Available Interest Commitment as set forth in the Standby
+Agreement, (iv) the close of business on the thirtieth (30) day following the date on which a written
+notice that an Event of Default has been declared under the Standby Agreement is received by UNC
+Hospitals and the Tender Agent, or if such day is not a Business Day, the next following Business Day,
+and (v) the date on which the Available Commitment has been reduced to zero or terminated in its entirety
+as a result of the redemption, repayment or other payment of the Series 2009A Bonds, or in connection
+with the substitution of the Standby Agreement with a Substitute Liquidity Facility and (vi) the date of the
+occurrence of an Event of Default identified under the caption “THE STANDBY AGREEMENT AND
+
+
+
+
+                                                     A-1
+
+THE BANK – Immediate Termination by the Bank” in the forepart of this Remarketing Circular (a
+“Special Event of Default”).
+
+Extent of Commitment
+
+        The Bank’s initial available principal commitment to provide funds to purchase the Series 2009A
+Bonds is limited to $29,505,000 under the Standby Agreement, which is the aggregate principal amount
+of the Series 2009A Bonds Outstanding. The Bank’s initial available interest commitment is limited to
+$339,510 under the Standby Agreement, which is equal to 35 days’ interest on the Series 2009A Bonds
+based on an assumed rate of interest of 12% and a 365-day year. The extent of the Bank’s commitment
+under the Standby Agreement may be increased or decreased as provided in the Standby Agreement, but
+may never exceed the initial amounts set forth in this paragraph.
+
+Conditions Precedent to Purchase on Each Date of Purchase
+
+         The Standby Agreement provides that the obligation of the Bank to purchase Series 2009A Bonds
+is subject to satisfaction of the following conditions, unless waived in writing by the Bank:
+
+        (a) No Special Event of Default shall have occurred; and
+
+      (b) The Bank shall have timely received a notice of purchase in a form attached to the Standby
+Agreement.
+
+Method of Purchasing
+
+        Subject to the terms and conditions set forth in the Standby Agreement, the Bank agrees to
+purchase Series 2009A Bonds in the Daily Mode or Weekly Mode upon receipt of a notice from the
+Tender Agent in the form attached to the Standby Agreement. If such notice is received no later than
+12:00 noon (New York time) on a Business Day, and if no Special Event of Default shall have occurred,
+payment will be made to the Tender Agent of the amount specified, in immediately available funds, by
+2:00 p.m. (New York time) on the same Business Day.
+
+Interest Rate on Bank Bonds
+
+         Bank Bonds will bear interest at the Formula Rate. The Formula Rate is equal to the Base Rate
+until 180 days after the initial date of purchase of any Bank Bonds, and thereafter, it is equal to the Base
+Rate plus one percent (1%) per annum, unless an Event of Default shall have occurred and be continuing,
+in which case it will be equal to the Base Rate plus three percent (3%); provided that at no time shall
+Bank Bonds bear interest in excess of the maximum rate permitted by law (the “Maximum Rate”). The
+Base Rate means a fluctuating rate of interest per annum equal to the greatest of (a) the Prime Rate, (b)
+the Federal Funds Rate plus .50% and (c) 3.00%. In the event the Formula Rate would exceed the
+Maximum Rate for any interest period, the Bank shall receive interest on account of Bank Bonds only at
+the Maximum Rate for such interest period (the difference between the interest that would have been
+payable to the Bank at the Formula Rate and the interest actually paid at the Maximum Rate is hereinafter
+referred to as “Excess Bank Bond Interest”). However, and notwithstanding any subsequent reduction in
+the Formula Rate, Bank Bonds shall bear interest, from and after the date on which any Excess Bank
+Bond Interest is accrued, at the Maximum Rate until payment to the Bank of such Excess Bank Bond
+Interest. Interest on Bank Bonds, whether accruing at the Base Rate or the Default Rate, shall be
+calculated on the basis of a 365-day year and the actual number of days elapsed. The rate at which Bank
+Bonds bear interest pursuant to this paragraph is herein called the “Bank Rate.”
+
+
+
+
+                                                   A-2
+
+Bank Bonds – Mandatory Redemption; Payment of Interest
+
+        UNC Hospitals agrees that, with respect to each Bank Bond, (i) such Bank Bond shall be
+redeemed in accordance with the mandatory sinking fund redemption schedule set forth in the Series
+Indenture until the fourth anniversary of such Purchase Date (or if such anniversary is not a Business Day
+on the next succeeding Business Day), on which date all remaining Bank Bonds must be redeemed; (ii)
+the aggregate amount of the Purchase Price comprising interest on such Series 2009A Bond, if any,
+included in the Purchase Price paid by the Bank for such Series 2009A Bond shall be due and payable on
+the date such Series 2009A Bond is purchased under the terms of the Standby Agreement; (iii) the interest
+on the unpaid amount of each such Series 2009A Bond from and including the applicable Purchase Date
+shall be computed at a rate per annum equal to the Bank Rate, as determined in accordance with the
+Standby Agreement; and (iv) interest payable pursuant to clause (iii) shall be payable (A) monthly on the
+first Business Day of each month, (B) upon redemption (to the extent of the interest accrued on the
+amount being redeemed), (C) at maturity (whether by acceleration or otherwise), and (D) after maturity
+on demand. In the event any Bank Bond is remarketed or otherwise transferred by the Bank before
+payment in full of the funds provided by the Bank under the Standby Agreement with respect thereto,
+together with interest thereon at the Bank Rate, the provisions of this paragraph shall continue to apply to
+such indebtedness until all sums for all periods during which the same was a Bank Bond are paid.
+
+Events of Default
+
+       Events of Default under the Standby Agreement are set forth under the captions “THE STANDBY
+AGREEMENT AND THE BANK - Immediate Termination by the Bank” and “- Termination by the Bank
+Resulting in Mandatory Tender” in the forepart of this Remarketing Circular.
+
+Remedies
+
+        (a) Upon the occurrence of a Special Event of Default, the Available Commitment shall
+immediately be reduced to zero, in which case the obligations of the Bank to purchase Series 2009A
+Bonds under the Standby Agreement shall immediately terminate and expire without the requirement of
+notice by the Bank. After such termination or expiration, the Bank shall deliver, within two (2) Business
+Days, to the Issuer, UNC Hospitals, the Tender Agent, the Trustee and the Remarketing Agent written
+notice of such termination or expiration; provided, however, that failure to provide such written notice
+shall have no effect on the validity or enforceability of such termination or expiration.
+
+         (b) Upon the occurrence of any Event of Default, including a Special Event of Default, the Bank
+shall have all other remedies provided at law or equity, including, without limitation, specific
+performance; and in addition, the Bank, in its sole discretion, may do one or more of the following: (i)
+declare all obligations of UNC Hospitals to the Bank under the Standby Agreement to be immediately due
+and payable without demand, presentment, protest, notice of intent to accelerate, notice of acceleration or
+further notice of any kind, all of which are hereby expressly waived; (ii) deliver to the Issuer, UNC
+Hospitals, the Tender Agent, the Trustee and the Remarketing Agent written notice that an Event of
+Default has been declared under the Standby Agreement, whereupon the remarketing of Series 2009A
+Bonds shall cease immediately and at the close of business on the 30th day following the date such notice
+is received by the Tender Agent and the Trustee the Available Commitment shall be reduced to zero and
+the obligations of the Bank under the Standby Agreement shall terminate; provided, however, that prior to
+such termination, the Bank shall remain obligated to purchase Eligible Bonds in accordance with the
+terms of the Standby Agreement so long as no Special Event of Default has occurred; (iii) require
+immediate purchase of Bank Bonds by UNC Hospitals; (iv) exercise any right or remedy available to it
+under any other provision of the Standby Agreement; or (v) exercise any other rights or remedies
+available under any Related Document, any other agreement or at law or in equity; provided, however,
+
+
+                                                   A-3
+
+that the Bank shall not have the right to terminate its obligation to purchase Series 2009A Bonds except as
+expressly provided under this caption “Remedies.”
+
+
+
+
+                                                   A-4
+
